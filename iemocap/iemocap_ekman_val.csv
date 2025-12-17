@@ -1,0 +1,907 @@
+Split,Dialogue_ID,Utterance_ID,Speaker,Utterance,Emotion
+val,Ses01F_impro01,Ses01F_impro01_F000,F,Excuse me.,neutral
+val,Ses01F_impro01,Ses01F_impro01_F001,F,Yeah.,neutral
+val,Ses01F_impro01,Ses01F_impro01_F002,F,Is there a problem?,neutral
+val,Ses01F_impro01,Ses01F_impro01_F005,F,Well what's the problem?  Let me change it.,neutral
+val,Ses01F_impro01,Ses01F_impro01_F006,F,What?  I'm getting an ID.  This is why I'm here.  My wallet was stolen.,anger
+val,Ses01F_impro01,Ses01F_impro01_F007,F,How am I supposed to get an ID without an ID?  How does a person get an ID in the first place?,anger
+val,Ses01F_impro01,Ses01F_impro01_F008,F,I'm here to get an ID.,anger
+val,Ses01F_impro01,Ses01F_impro01_F009,F,Like what?  Like a birth certificate?,anger
+val,Ses01F_impro01,Ses01F_impro01_F011,F,"Yes but my wallet was stolen, I don't have anything.  I don't have any credit cards, I don't have my ID.  Don't you have things on file here?",anger
+val,Ses01F_impro01,Ses01F_impro01_F012,F,That's out of control.,anger
+val,Ses01F_impro01,Ses01F_impro01_F013,F,How long have you been working here?,anger
+val,Ses01F_impro01,Ses01F_impro01_F014,F,"Clearly.  You know, do you have like a supervisor or something?",neutral
+val,Ses01F_impro01,Ses01F_impro01_F015,F,That would - I would appreciate that.  Yeah.,anger
+val,Ses01F_impro01,Ses01F_impro01_M000,M,Do you have your forms?,anger
+val,Ses01F_impro01,Ses01F_impro01_M001,M,Let me see them.,anger
+val,Ses01F_impro01,Ses01F_impro01_M002,M,Who told you to get in this line?,anger
+val,Ses01F_impro01,Ses01F_impro01_M003,M,Okay. But I didn't tell you to get in this line if you are filling out this particular form.,anger
+val,Ses01F_impro01,Ses01F_impro01_M004,M,This form is a Z.X.four.,anger
+val,Ses01F_impro01,Ses01F_impro01_M005,M,"You can't--  This is not the line for Z.X.four.  If you're going to fill out the Z.X.four, you need to have a different form of ID.",anger
+val,Ses01F_impro01,Ses01F_impro01_M006,M,No. I need another set of ID to prove this is actually you.,anger
+val,Ses01F_impro01,Ses01F_impro01_M007,M,I don't know.  But I need an ID to pass this form along.  I can't just send it along without an ID.,anger
+val,Ses01F_impro01,Ses01F_impro01_M008,M,"No.  I need another ID, a separate one.",anger
+val,Ses01F_impro01,Ses01F_impro01_M009,M,"A birth certificate, a passport...a student ID; didn't you go to school?  Anything?",anger
+val,Ses01F_impro01,Ses01F_impro01_M010,M,"Yeah.  We keep it on file, but we need an ID to access that file.",anger
+val,Ses01F_impro01,Ses01F_impro01_M011,M,I don't understand why this is so complicated for people when they get here.  It's just a simple form.  I just need an ID.,anger
+val,Ses01F_impro01,Ses01F_impro01_M013,M,Yeah.  Do you want to see my supervisor?  Huh? Yeah.  Do you want to see my supervisor?  Fine.  I'll be right back.,anger
+val,Ses01F_impro04,Ses01F_impro04_F000,F,"Uh, what?  Craig's List?  Oh the internet thing?",neutral
+val,Ses01F_impro04,Ses01F_impro04_F001,F,I don't know.  Isn't that-- that's all like escort services and things like that.,neutral
+val,Ses01F_impro04,Ses01F_impro04_F002,F,"I don't know.  I mean I've been looking for so long that I just figured that--  I mean, I think things like Monster are a lot more reliable than just some random free board.",anger
+val,Ses01F_impro04,Ses01F_impro04_F005,F,He just...,neutral
+val,Ses01F_impro04,Ses01F_impro04_F006,F,you know what?  I heard about that job.  I applied for that.,neutral
+val,Ses01F_impro04,Ses01F_impro04_F007,F,Yeah.  I saw a posting at the theatre.,anger
+val,Ses01F_impro04,Ses01F_impro04_F009,F,Yeah.,neutral
+val,Ses01F_impro04,Ses01F_impro04_F013,F,I just- I mean I call people up and I tell them what I'm good at.,neutral
+val,Ses01F_impro04,Ses01F_impro04_F014,F,Yeah.,neutral
+val,Ses01F_impro04,Ses01F_impro04_F016,F,I'm there in front of them.  I'm telling them what I'm good at.,anger
+val,Ses01F_impro04,Ses01F_impro04_F017,F,Why?  It's a piece of paper.,anger
+val,Ses01F_impro04,Ses01F_impro04_F018,F,"I just don't want this paper trail, you know.  I just don't want things following me around, like-.",anger
+val,Ses01F_impro04,Ses01F_impro04_F019,F,"It's just-- You know, I've had this problem before.  You're not the first person to tell me that I need a resume but...",anger
+val,Ses01F_impro04,Ses01F_impro04_F021,F,"That's baloney, that's baloney.",anger
+val,Ses01F_impro04,Ses01F_impro04_F022,F,Please.,anger
+val,Ses01F_impro04,Ses01F_impro04_F023,F,you think that you're better than me because I don't have a car?,anger
+val,Ses01F_impro04,Ses01F_impro04_F024,F,"You know, you're riding the bus, too.",anger
+val,Ses01F_impro04,Ses01F_impro04_F025,F,Why?  What choice?,anger
+val,Ses01F_impro04,Ses01F_impro04_F026,F,You're saving the environment. mmhmm,anger
+val,Ses01F_impro04,Ses01F_impro04_F027,F,Interesting.  That's fantastic.,anger
+val,Ses01F_impro04,Ses01F_impro04_F028,F,I'm not frustrated.,anger
+val,Ses01F_impro04,Ses01F_impro04_F029,F,Who do you think you are?,anger
+val,Ses01F_impro04,Ses01F_impro04_F030,F,You are so high and mighty.  I just--,anger
+val,Ses01F_impro04,Ses01F_impro04_F031,F,Oh.  I'm saving the environment. I'm riding this car because I- I want to.,anger
+val,Ses01F_impro04,Ses01F_impro04_F032,F,"The bus, I'm riding the bus because I want to.",anger
+val,Ses01F_impro04,Ses01F_impro04_F033,F,I can not-- you are not here by choice.  Nobody would ride this bus by choice.,anger
+val,Ses01F_impro04,Ses01F_impro04_M000,M,"Have you tried, uh, Craig's List?",neutral
+val,Ses01F_impro04,Ses01F_impro04_M001,M,Yeah.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M002,M,No.  There's regular jobs on there.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M003,M,Uh huh.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M004,M,I'm just saying I have a friend that got a good job on it so I was just recommending it.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M005,M,He's like a manager for a theatre.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M006,M,He's like a house manager. Yeah.  It's a good job.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M007,M,You did?,neutral
+val,Ses01F_impro04,Ses01F_impro04_M008,M,Yeah.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M009,M,You've been looking for a job for a long time; that was a long time ago.  Right?,neutral
+val,Ses01F_impro04,Ses01F_impro04_M010,M,Hmm.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M011,M,I don't know.  He had a really good resume I guess and--,neutral
+val,Ses01F_impro04,Ses01F_impro04_M012,M,Yeah.  Do you have a resume?,neutral
+val,Ses01F_impro04,Ses01F_impro04_M013,M,It's kind of helpful when getting a job.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M014,M,Well maybe we should sit down some time and you can just tell me all the stuff that you have done and I'll write it out.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M015,M,"No.  You can- or you can just bring it in person.  But they need, generally, something to see, you know, what kind of what that you've done, what kind of--",neutral
+val,Ses01F_impro04,Ses01F_impro04_M016,M,"Yeah.  But the piece of paper helps, too.",neutral
+val,Ses01F_impro04,Ses01F_impro04_M017,M,"No.  But it has an outline, you know.",neutral
+val,Ses01F_impro04,Ses01F_impro04_M018,M,"I know.  Okay.  Well, um. Maybe--",neutral
+val,Ses01F_impro04,Ses01F_impro04_M019,M,Yeah.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M020,M,"Okay, yeah.  I would imagine.",neutral
+val,Ses01F_impro04,Ses01F_impro04_M021,M,"Well, sometimes you have to do things that you don't necessarily like to do to have a job. But the job affords you money, you won't have to be taking the bus right now.",neutral
+val,Ses01F_impro04,Ses01F_impro04_M022,M,maybe get a car.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M023,M,"I just, you know, think you should try a little harder maybe.",neutral
+val,Ses01F_impro04,Ses01F_impro04_M024,M,I didn't say that.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M025,M,"I am riding the bus, but by choice.",neutral
+val,Ses01F_impro04,Ses01F_impro04_M026,M,"To save the environment, carpool.",neutral
+val,Ses01F_impro04,Ses01F_impro04_M027,M,Yes.  One less car at a time.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M028,M,Mmhmm.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M029,M,"You know, you don't have to take out your frustration on me, you know, just because...",anger
+val,Ses01F_impro04,Ses01F_impro04_M030,M,...you can't get a job and refuse to have a resume.,anger
+val,Ses01F_impro04,Ses01F_impro04_M031,M,I don't think I'm anyone.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M032,M,I- I-I didn't-- okay.,neutral
+val,Ses01F_impro04,Ses01F_impro04_M034,M,What? Oh.  So now you're...,anger
+val,Ses01F_impro04,Ses01F_impro04_M035,M,you know what?  You don't have to take your anger and your hurt out on me.,anger
+val,Ses01F_impro06,Ses01F_impro06_F002,F,No.,sadness
+val,Ses01F_impro06,Ses01F_impro06_F003,F,That's sweet.,neutral
+val,Ses01F_impro06,Ses01F_impro06_F004,F,Thank you.,neutral
+val,Ses01F_impro06,Ses01F_impro06_F005,F,I went to see her headstone a week or two ago.,sadness
+val,Ses01F_impro06,Ses01F_impro06_F006,F,"I used to go to cemeteries a lot before she died.  I just, you know, I felt like they were urban oasis, you know, there is always this green in the city.",sadness
+val,Ses01F_impro06,Ses01F_impro06_F007,F,So I was like wandering around before.  It takes forever to find her headstone; I always lose it. You know.,sadness
+val,Ses01F_impro06,Ses01F_impro06_F008,F,So I was looking at this other one and there was like a piece of candy there and I thought that I would take the candy and put it on her headstone.  And-,sadness
+val,Ses01F_impro06,Ses01F_impro06_F009,F,"this woman came up and, you know, it was hers. It was her person that was there.",neutral
+val,Ses01F_impro06,Ses01F_impro06_F010,F,"Yeah.  And she was like, that's pathetic, I hope you enjoy it.",sadness
+val,Ses01F_impro06,Ses01F_impro06_F011,F,"And I, you know, I mean, I said I was sorry and I brought it back to her kind of and I like put it on the ground and she was like, no, it's fine.  She was like, I would rather have her back, honestly.",sadness
+val,Ses01F_impro06,Ses01F_impro06_F012,F,"I don't know.  It just, like, I felt so bad because I shouldn't have done it.  I don't know.  Whatever.",sadness
+val,Ses01F_impro06,Ses01F_impro06_F013,F,I don't know.,sadness
+val,Ses01F_impro06,Ses01F_impro06_F014,F,At the cemetery?,sadness
+val,Ses01F_impro06,Ses01F_impro06_F015,F,couple hours.,sadness
+val,Ses01F_impro06,Ses01F_impro06_F016,F,"I brought- I brought Chuck with me. He went to Redlands, yeah, for the day.  We ran through the sprinklers.",neutral
+val,Ses01F_impro06,Ses01F_impro06_F018,F,Yeah.  It's huge.  Redlands is an old city so they have lots and lots of stones.,neutral
+val,Ses01F_impro06,Ses01F_impro06_F019,F,Yeah.,neutral
+val,Ses01F_impro06,Ses01F_impro06_F020,F,"It's weird.  Whenever I go back to town, I think of her.  I mean, it's like ... I mean we grew up together and she died when we were twenty one.  And yeah.  She had cancer, she had two brain tumors.",sadness
+val,Ses01F_impro06,Ses01F_impro06_F021,F,"My best friend Heather.  She's got a- we have a- we built this like little--  There's a park, Prospect Park.  And there is like a garden section of it that we set up for her.",sadness
+val,Ses01F_impro06,Ses01F_impro06_F022,F,She used to have these poetry parties on Memorial Day.,sadness
+val,Ses01F_impro06,Ses01F_impro06_F023,F,Umm. Yeah.,sadness
+val,Ses01F_impro06,Ses01F_impro06_F024,F,"And the last time before she died, I remember she couldn't really stand, umm...",sadness
+val,Ses01F_impro06,Ses01F_impro06_F025,F,"But I mean she could, but it was- so it was kind of sitting at her feet holding her up and she had these poems she had memorized.  And I remember looking up, she had curly red hair and there was this palm tree right behind her and it was like a crown growing right out of her head.  It was cool.",sadness
+val,Ses01F_impro06,Ses01F_impro06_F026,F,"Some, I guess.  She memorized this one, John Dunn, it's called, Death Be Not Proud. and-",sadness
+val,Ses01F_impro06,Ses01F_impro06_F027,F,"There's another one, I can't remember.",neutral
+val,Ses01F_impro06,Ses01F_impro06_F028,F,"I remember, too, when we were--  she died at U.C.L.A.  She had brain surgery and there was not much hope to begin with, but I gave blood for her surgery, her mom and I before, so we dropped her off in the waiting room and then we were giving blood and came back.  And she, in her wheelchair, like can hardly do anything, reciting her poetry for these people like in the waiting room.  All she needs is a God damn audience.  You know?",sadness
+val,Ses01F_impro06,Ses01F_impro06_M000,M,"I'm sorry, Joy.",sadness
+val,Ses01F_impro06,Ses01F_impro06_M001,M,Is there anything I can get you?  Do you want me to take care of anything for you or...?,neutral
+val,Ses01F_impro06,Ses01F_impro06_M002,M,...pick up anything?,neutral
+val,Ses01F_impro06,Ses01F_impro06_M003,M,You know you are welcome to stay at my house if you want to just check out for a couple days and hang out.,sadness
+val,Ses01F_impro06,Ses01F_impro06_M004,M,Hmm.,neutral
+val,Ses01F_impro06,Ses01F_impro06_M005,M,Oh.  She was there?,neutral
+val,Ses01F_impro06,Ses01F_impro06_M006,M,Mmhmm.,neutral
+val,Ses01F_impro06,Ses01F_impro06_M007,M,Yeah.,sadness
+val,Ses01F_impro06,Ses01F_impro06_M008,M,How long were you there for?,neutral
+val,Ses01F_impro06,Ses01F_impro06_M009,M,Mmhmm.,neutral
+val,Ses01F_impro06,Ses01F_impro06_M010,M,Oh really?,neutral
+val,Ses01F_impro06,Ses01F_impro06_M011,M,You ran through the sprinklers in the cemetery?,neutral
+val,Ses01F_impro06,Ses01F_impro06_M012,M,Is it a big cemetery?,neutral
+val,Ses01F_impro06,Ses01F_impro06_M013,M,"Oh, so they're like really old too, really old ones?",neutral
+val,Ses01F_impro06,Ses01F_impro06_M014,M,Mmhmm.,neutral
+val,Ses01F_impro06,Ses01F_impro06_M015,M,Mmhmm.,neutral
+val,Ses01F_impro06,Ses01F_impro06_M016,M,So she wrote a lot of poetry?,neutral
+val,Ses01M_impro02,Ses01M_impro02_F000,F,What's happening?,neutral
+val,Ses01M_impro02,Ses01M_impro02_F002,F,Are you kidding me?,surprise
+val,Ses01M_impro02,Ses01M_impro02_F003,F,How...,anger
+val,Ses01M_impro02,Ses01M_impro02_F004,F,How can they do that?,anger
+val,Ses01M_impro02,Ses01M_impro02_F005,F,They said you're home for at least four years.,anger
+val,Ses01M_impro02,Ses01M_impro02_F006,F,[BREATHING],anger
+val,Ses01M_impro02,Ses01M_impro02_F007,F,That's not fair.,anger
+val,Ses01M_impro02,Ses01M_impro02_F008,F,[BREATHING],anger
+val,Ses01M_impro02,Ses01M_impro02_F009,F,I don't even know what to tell you.,sadness
+val,Ses01M_impro02,Ses01M_impro02_F010,F,What about the birthday party?,sadness
+val,Ses01M_impro02,Ses01M_impro02_F013,F,You're going with the same ones?,sadness
+val,Ses01M_impro02,Ses01M_impro02_F015,F,It's not the same though.,sadness
+val,Ses01M_impro02,Ses01M_impro02_F017,F,Mm hmm.  We'll build a bunker and never come out.,sadness
+val,Ses01M_impro02,Ses01M_impro02_F019,F,Don't say that.,sadness
+val,Ses01M_impro02,Ses01M_impro02_M000,M,"Hey, Joy come in here.",neutral
+val,Ses01M_impro02,Ses01M_impro02_M001,M,I have to go back.,sadness
+val,Ses01M_impro02,Ses01M_impro02_M002,M,I just got a letter I have to go back.,sadness
+val,Ses01M_impro02,Ses01M_impro02_M003,M,First thing tomorrow morning.,sadness
+val,Ses01M_impro02,Ses01M_impro02_M006,M,"I guess they can do it,",anger
+val,Ses01M_impro02,Ses01M_impro02_M007,M,"The National Guard is I guess really spread thin and then everyone has to go.  We all have to go back, my whole companies going back.",sadness
+val,Ses01M_impro02,Ses01M_impro02_M009,M,"So yeah, we leave tomorrow...",sadness
+val,Ses01M_impro02,Ses01M_impro02_M010,M,...we're all shipping out.,sadness
+val,Ses01M_impro02,Ses01M_impro02_M011,M,I just got I feel like I'm in shock actually.,sadness
+val,Ses01M_impro02,Ses01M_impro02_M012,M,I don't know.,sadness
+val,Ses01M_impro02,Ses01M_impro02_M013,M,I guess you're just going to have to have it without me.,sadness
+val,Ses01M_impro02,Ses01M_impro02_M014,M,"Hey listen, it's going to be okay though, all right?",sadness
+val,Ses01M_impro02,Ses01M_impro02_M015,M,You're going to be fine.,sadness
+val,Ses01M_impro02,Ses01M_impro02_M016,M,"I'm going to be fine too, okay?",sadness
+val,Ses01M_impro02,Ses01M_impro02_M017,M,I know I have a good... I have a really good group of guys with me.,sadness
+val,Ses01M_impro02,Ses01M_impro02_M018,M,We're going to be okay.,sadness
+val,Ses01M_impro02,Ses01M_impro02_M019,M,Do promise me you're going to take a lot of pictures.,sadness
+val,Ses01M_impro02,Ses01M_impro02_M020,M,I know.,sadness
+val,Ses01M_impro02,Ses01M_impro02_M021,M,I just wish there was something I could do.,sadness
+val,Ses01M_impro02,Ses01M_impro02_M022,M,Run away?,sadness
+val,Ses01M_impro02,Ses01M_impro02_M023,M,"I really don't want to go, I don't want to go...",sadness
+val,Ses01M_impro02,Ses01M_impro02_M025,M,I love you.,sadness
+val,Ses01M_impro03,Ses01M_impro03_F001,F,[BREATHING],surprise
+val,Ses01M_impro03,Ses01M_impro03_F002,F,Why?,joy
+val,Ses01M_impro03,Ses01M_impro03_F003,F,Is she on the run?,joy
+val,Ses01M_impro03,Ses01M_impro03_F004,F,"Oh, she just needs to marry you.",joy
+val,Ses01M_impro03,Ses01M_impro03_F005,F,That's incredible. That's awesome. Where's she from?  Maybe you can get a dual citizenship.,joy
+val,Ses01M_impro03,Ses01M_impro03_F006,F,That's so cool. Uh huh.,joy
+val,Ses01M_impro03,Ses01M_impro03_F007,F,[LAUGHTER] Why did she pick you? Where were you?,joy
+val,Ses01M_impro03,Ses01M_impro03_F008,F,You were at a party? And she's like hey. You seem unattached she's like.,joy
+val,Ses01M_impro03,Ses01M_impro03_F009,F,That's unbelievable... Yeah.,joy
+val,Ses01M_impro03,Ses01M_impro03_F010,F,Well I've known people who have done this before. Yeah.  You just- it's really fun actually 'cause you have like a fake engagement party and all your friends come over and like...,joy
+val,Ses01M_impro03,Ses01M_impro03_F011,F,"Yeah. Yeah. And then yeah, and then you know like you could like you could do like like sock her for a lot of money",joy
+val,Ses01M_impro03,Ses01M_impro03_F012,F,"Like make her rent the apartment that you two have to live together in, you know. And you won't pay any rent or you pay like, a hundred bucks a month or something.",joy
+val,Ses01M_impro03,Ses01M_impro03_F013,F,Yeah.,joy
+val,Ses01M_impro03,Ses01M_impro03_F014,F,"Dude, you lucked out.",joy
+val,Ses01M_impro03,Ses01M_impro03_F015,F,"Yeah.  My colors are blush and beige what is it, do you know?",joy
+val,Ses01M_impro03,Ses01M_impro03_F016,F,Oh I don't know. [LAUGHTER],joy
+val,Ses01M_impro03,Ses01M_impro03_F017,F,I don't know get it in cash.,neutral
+val,Ses01M_impro03,Ses01M_impro03_F018,F,Yeah.,neutral
+val,Ses01M_impro03,Ses01M_impro03_F019,F,How exciting. You should have a wedding on the beach.,joy
+val,Ses01M_impro03,Ses01M_impro03_F020,F,"Yeah, at night.",joy
+val,Ses01M_impro03,Ses01M_impro03_F021,F,"Oh yeah, absolutely, absolutely.",neutral
+val,Ses01M_impro03,Ses01M_impro03_F022,F,How exciting.  You should make her bring all your friends too.,joy
+val,Ses01M_impro03,Ses01M_impro03_F023,F,[GARBAGE] She's got to be loaded.  fifty thousand dollars.  That's incredible.,joy
+val,Ses01M_impro03,Ses01M_impro03_F024,F,Incredible.,joy
+val,Ses01M_impro03,Ses01M_impro03_F025,F,"you're a lucky, lucky, lucky man.",joy
+val,Ses01M_impro03,Ses01M_impro03_F026,F,"Oh, totally. Yeah.",joy
+val,Ses01M_impro03,Ses01M_impro03_M000,M,The craziest thing just happened to me.,joy
+val,Ses01M_impro03,Ses01M_impro03_M001,M,This girl; she just offered me fifty thousand dollars to marry her.,joy
+val,Ses01M_impro03,Ses01M_impro03_M003,M,"Well, she's not a citizen so she wants to get a visa.",neutral
+val,Ses01M_impro03,Ses01M_impro03_M004,M,"No, no, no, no, no, no she just... she's not a citizen but she wants her visa, yeah. She's going to pay me fifty thousand dollars to marry her and stay married to her for two years.",joy
+val,Ses01M_impro03,Ses01M_impro03_M005,M,That's like twenty five thousand dollar a year for doing nothing. Isn't that awesome?,joy
+val,Ses01M_impro03,Ses01M_impro03_M006,M,"She's actually from England, I think.  Well she- she spoke English but she had an accent. I didn't even ask.",neutral
+val,Ses01M_impro03,Ses01M_impro03_M007,M,"Fifty thousand dollars. Fifty thousand dollars. I was just out... I just... she's - well, she's a friend of friend but like...",joy
+val,Ses01M_impro03,Ses01M_impro03_M008,M,"Yeah.  Can you believe that? Yeah, she's like hey, I'm like sure I'll do it, I don't care. Yeah. I'm like fifty thousand dollars, I'd totally do it for fifty thousand dollars. But the only thing is that's kind of like illegal. So like I could go to jail probably for a long if I get caught, but...",joy
+val,Ses01M_impro03,Ses01M_impro03_M010,M,It's like I'm really going to get married. We'll have like the whole thing.,joy
+val,Ses01M_impro03,Ses01M_impro03_M011,M,"Oh, good. [LAUGHTER]",joy
+val,Ses01M_impro03,Ses01M_impro03_M012,M,I know. What do you think I should-,joy
+val,Ses01M_impro03,Ses01M_impro03_M013,M,Oh good idea.,joy
+val,Ses01M_impro03,Ses01M_impro03_M014,M,Yeah.  Make her like open the bank account and stuff too.,neutral
+val,Ses01M_impro03,Ses01M_impro03_M015,M,It's a good idea.,joy
+val,Ses01M_impro03,Ses01M_impro03_M016,M,I know.  Also I get to like plan the wedding now too. That will be fun.,joy
+val,Ses01M_impro03,Ses01M_impro03_M017,M,"Something blue, something new, something... no I don't know. [LAUGHTER] So yeah, wonder if she's going to pay me up front but do you think it's bad though, do you think they're going to like track the money or something?",joy
+val,Ses01M_impro03,Ses01M_impro03_M018,M,Just cash hardcore.,neutral
+val,Ses01M_impro03,Ses01M_impro03_M019,M,What should we do?  Where should we get married? We should have party.,joy
+val,Ses01M_impro03,Ses01M_impro03_M020,M,"Yeah, like a big like- A wedding on the beach, that would be nice.",joy
+val,Ses01M_impro03,Ses01M_impro03_M021,M,And then we can honeymoon.  I want to go tropical though like Bahamas- --or like Tahiti or something. I just want to like beach and like drink.,neutral
+val,Ses01M_impro03,Ses01M_impro03_M022,M,I'll make her pay for that.  I hear she's like totally wealthy. She's like royalty- --or something like and- --whatever like removed or something but yeah.,joy
+val,Ses01M_impro03,Ses01M_impro03_M023,M,I'm going to marry a blue blood. [LAUGHTER],joy
+val,Ses01M_impro03,Ses01M_impro03_M024,M,Will you help me plan?,joy
+val,Ses01M_impro06,Ses01M_impro06_F000,F,You okay?,neutral
+val,Ses01M_impro06,Ses01M_impro06_F001,F,What's happened?,neutral
+val,Ses01M_impro06,Ses01M_impro06_F002,F,You don't have to if you don't want to.,neutral
+val,Ses01M_impro06,Ses01M_impro06_F003,F,I'm sorry to hear that.,sadness
+val,Ses01M_impro06,Ses01M_impro06_F004,F,You've been taking care of it all?,sadness
+val,Ses01M_impro06,Ses01M_impro06_F005,F,Oh Jesus.,sadness
+val,Ses01M_impro06,Ses01M_impro06_F006,F,He sick for awhile?,sadness
+val,Ses01M_impro06,Ses01M_impro06_F007,F,Was it an accident?,neutral
+val,Ses01M_impro06,Ses01M_impro06_F008,F,how was sick?,neutral
+val,Ses01M_impro06,Ses01M_impro06_F009,F,"Well, I'm confused.  He was sick or it was an accident?",neutral
+val,Ses01M_impro06,Ses01M_impro06_F010,F,Oh. Really fast? Oh.,neutral
+val,Ses01M_impro06,Ses01M_impro06_F011,F,Yeah.,neutral
+val,Ses01M_impro06,Ses01M_impro06_F012,F,Yeah.,neutral
+val,Ses01M_impro06,Ses01M_impro06_F013,F,"Totally, yeah.",neutral
+val,Ses01M_impro06,Ses01M_impro06_F014,F,Mmhmm.,neutral
+val,Ses01M_impro06,Ses01M_impro06_F015,F,Lock,neutral
+val,Ses01M_impro06,Ses01M_impro06_F016,F,Mmhmm.,neutral
+val,Ses01M_impro06,Ses01M_impro06_F017,F,The plans you make [GARBAGE].,neutral
+val,Ses01M_impro06,Ses01M_impro06_F018,F,It leaves a hole for you too.,neutral
+val,Ses01M_impro06,Ses01M_impro06_F019,F,"It leaves a hole for you too, in your plans together.",neutral
+val,Ses01M_impro06,Ses01M_impro06_F020,F,It gets better.,neutral
+val,Ses01M_impro06,Ses01M_impro06_F021,F,Mmhmm.,neutral
+val,Ses01M_impro06,Ses01M_impro06_F022,F,MMhmm.,neutral
+val,Ses01M_impro06,Ses01M_impro06_F023,F,Mmhmm.,neutral
+val,Ses01M_impro06,Ses01M_impro06_F024,F,How long did you know each other?,neutral
+val,Ses01M_impro06,Ses01M_impro06_F025,F,That's a long time.,neutral
+val,Ses01M_impro06,Ses01M_impro06_F026,F,It's good that you were there.,neutral
+val,Ses01M_impro06,Ses01M_impro06_F027,F,Yeah.,neutral
+val,Ses01M_impro06,Ses01M_impro06_F028,F,Are there things you wish you'd done differently?,neutral
+val,Ses01M_impro06,Ses01M_impro06_M000,M,"Yeah, I'm just-- yeah",sadness
+val,Ses01M_impro06,Ses01M_impro06_M001,M,"Just kind of feel numb, you know.",sadness
+val,Ses01M_impro06,Ses01M_impro06_M002,M,You didn't even hear?,sadness
+val,Ses01M_impro06,Ses01M_impro06_M003,M,[BREATHING] Umm.,sadness
+val,Ses01M_impro06,Ses01M_impro06_M004,M,God I've told this story so many times. Umm.,sadness
+val,Ses01M_impro06,Ses01M_impro06_M005,M,I just...I just basically lost someone that was really close to me.,sadness
+val,Ses01M_impro06,Ses01M_impro06_M006,M,"And I've kind of been dealing with all of the...the stuff, you know the hospital and people work because...",sadness
+val,Ses01M_impro06,Ses01M_impro06_M007,M,"He kind of didn't have anyone to take care of that for him, so--",sadness
+val,Ses01M_impro06,Ses01M_impro06_M008,M,It's just really...really messed up.,sadness
+val,Ses01M_impro06,Ses01M_impro06_M009,M,No.,sadness
+val,Ses01M_impro06,Ses01M_impro06_M010,M,Just like it.,sadness
+val,Ses01M_impro06,Ses01M_impro06_M011,M,"No, I mean it just came on really quick, you know I mean it was a [GARBAGE] it was a sickness but it just --",sadness
+val,Ses01M_impro06,Ses01M_impro06_M012,M,What?,sadness
+val,Ses01M_impro06,Ses01M_impro06_M013,M,"He was sick. He got sick. He got sick but it happened really, really fast, you know.",sadness
+val,Ses01M_impro06,Ses01M_impro06_M014,M,It was kind of like boom... done,sadness
+val,Ses01M_impro06,Ses01M_impro06_M015,M,It's just really weird because he was really young you know and it kind of like...,sadness
+val,Ses01M_impro06,Ses01M_impro06_M016,M,--it just kind of freaks you out.,sadness
+val,Ses01M_impro06,Ses01M_impro06_M017,M,So weird you know that like one days it's like you know sounds so stupid but like one day someone's here. And like next day you know they're not here and it just kind of makes you like think about like life and mortality and like that kind of stuff.  You just like used to take for granted--you know.,sadness
+val,Ses01M_impro06,Ses01M_impro06_M018,M,"Exactly, you know, and like he had so many plans and he was going to do...",sadness
+val,Ses01M_impro06,Ses01M_impro06_M019,M,"so many things, you know?",sadness
+val,Ses01M_impro06,Ses01M_impro06_M020,M,What?,sadness
+val,Ses01M_impro06,Ses01M_impro06_M021,M,Yeah.,sadness
+val,Ses01M_impro06,Ses01M_impro06_M022,M,"He was a really, really good guy.",sadness
+val,Ses01M_impro06,Ses01M_impro06_M023,M,A lot of people loved him.,sadness
+val,Ses01M_impro06,Ses01M_impro06_M024,M,"You know, it's like affecting a lot of people it's not just me, you know?",sadness
+val,Ses01M_impro06,Ses01M_impro06_M025,M,Umm...,sadness
+val,Ses01M_impro06,Ses01M_impro06_M026,M,For like eight years.,sadness
+val,Ses01M_impro06,Ses01M_impro06_M027,M,Yeah.,sadness
+val,Ses01M_impro06,Ses01M_impro06_M028,M,"Yeah, I'm glad I was there. Glad I- glad I got to be there.",sadness
+val,Ses01M_impro06,Ses01M_impro06_M029,M,"So weird,",sadness
+val,Ses01M_impro06,Ses01M_impro06_M030,M,"like I can't...it's like you know it's like ""pinch me"" it's like I can't believe like I'm dealing with this, you know.",sadness
+val,Ses01M_impro07,Ses01M_impro07_F000,F,Yeah.,neutral
+val,Ses01M_impro07,Ses01M_impro07_F001,F,[LAUGHTER]. For softball? That's unbelievable. Is it slow pitch?,joy
+val,Ses01M_impro07,Ses01M_impro07_F003,F,Pinch hitting softball.,joy
+val,Ses01M_impro07,Ses01M_impro07_F004,F,That is incredible.,joy
+val,Ses01M_impro07,Ses01M_impro07_F005,F,That's amazing. They pay for everything?,joy
+val,Ses01M_impro07,Ses01M_impro07_F006,F,"Your housing, books, everything? That is incredible.",joy
+val,Ses01M_impro07,Ses01M_impro07_F007,F,That is incredible. Do you get like a per diem?,joy
+val,Ses01M_impro07,Ses01M_impro07_F008,F,You should...You should look into that.,joy
+val,Ses01M_impro07,Ses01M_impro07_F009,F,"That is amazing, congratulations. Good for you.",joy
+val,Ses01M_impro07,Ses01M_impro07_F010,F,Oh.,neutral
+val,Ses01M_impro07,Ses01M_impro07_F011,F,"Yeah, that you probably. You should see one of these Victorian houses around by.",joy
+val,Ses01M_impro07,Ses01M_impro07_F012,F,Oh. Venice beach.,neutral
+val,Ses01M_impro07,Ses01M_impro07_F013,F,"Oh, you don't like that. You're west-sider?",joy
+val,Ses01M_impro07,Ses01M_impro07_F014,F,"Okay. That would be way too much of a commute you can't do that. Especially- I know especially from--I don't know, what I was going to say, I don't know.",joy
+val,Ses01M_impro07,Ses01M_impro07_F015,F,I don't know. Commuting from what Malibu that would be ridiculous.,joy
+val,Ses01M_impro07,Ses01M_impro07_F016,F,Oh yeah. He'd drop you right off at practice?,joy
+val,Ses01M_impro07,Ses01M_impro07_F018,F,They have those neon--softballs.  They're like day-glow you can see them anywhere.,joy
+val,Ses01M_impro07,Ses01M_impro07_F020,F,Oh. That is incredible. Is it--,neutral
+val,Ses01M_impro07,Ses01M_impro07_F021,F,"do they have a--is it a co-ed softball team?  I mean... Really? You know, I didn't even know that they have that.",joy
+val,Ses01M_impro07,Ses01M_impro07_F022,F,Who do you play? Like do--are you like... nationally ranked?,joy
+val,Ses01M_impro07,Ses01M_impro07_F023,F,That is unbelievable.,joy
+val,Ses01M_impro07,Ses01M_impro07_F024,F,I would put that right up there with--ping-pong.,joy
+val,Ses01M_impro07,Ses01M_impro07_F025,F,I mean not to denigrate what you are doing.  I think that's great.,joy
+val,Ses01M_impro07,Ses01M_impro07_F026,F,"No, no.  I love softball. I played softball all the time.",joy
+val,Ses01M_impro07,Ses01M_impro07_F027,F,I am not saying you should be. I'm not no. I think it's great I think you should be incredibly proud yourself especially because you're going to U.S.C for free for doing it. For free.,joy
+val,Ses01M_impro07,Ses01M_impro07_F033,F,You're like the rookie? The new kid.,joy
+val,Ses01M_impro07,Ses01M_impro07_F034,F,Just watch in five years you'll be like on the force. You carry around donuts in your back pocket... [LAUGHTER],joy
+val,Ses01M_impro07,Ses01M_impro07_M000,M,Check this out.  You know how I've told you I've been really into like softball recently?,joy
+val,Ses01M_impro07,Ses01M_impro07_M001,M,"Well, this is totally random, I got this full ride scholarship to go to U.S.C next year to play softball.",joy
+val,Ses01M_impro07,Ses01M_impro07_M002,M,For softball.  They're going to pay me to go to school. Isn't that awesome?,joy
+val,Ses01M_impro07,Ses01M_impro07_M003,M,"Yeah.  Well, I don't--well yeah I can pitch, I'm not like the pitcher though. I'm like the pinch hitter guy I mostly just hit.  But I guess I'm going to have to... Yeah, and then I play shortstop too but... It's so ex- The good news is I get to stay here.",joy
+val,Ses01M_impro07,Ses01M_impro07_M004,M,"I know. For softball, yeah.",joy
+val,Ses01M_impro07,Ses01M_impro07_M005,M,"Yeah, everything. Every like- free ride and I get to, you know, like be on like a Trojans sports team too. And it's like cool. Isn't it awesome?",joy
+val,Ses01M_impro07,Ses01M_impro07_M006,M,"I don't know. I should ask. Yeah, I will.",joy
+val,Ses01M_impro07,Ses01M_impro07_M007,M,Thank you.,joy
+val,Ses01M_impro07,Ses01M_impro07_M008,M,But I don't know I want to live in the housing that they give me though 'cause I think I want to you know like get like a nicer place.,joy
+val,Ses01M_impro07,Ses01M_impro07_M009,M,Where should I move?,joy
+val,Ses01M_impro07,Ses01M_impro07_M010,M,"That's a really good idea. Or I could go to like Santa Monica. Go beach. Venice beach, yeah a little dirty though. I don't want to go to Venice beach. But - Malibu. All right.",joy
+val,Ses01M_impro07,Ses01M_impro07_M011,M,Professional softball player Malibu. [LAUGHTER],joy
+val,Ses01M_impro07,Ses01M_impro07_M013,M,"Oh yeah, that would be.  Well, depends on what type of car you had, though too. I guess it would be worth it. helicopter. Yeah, helicopter.  There is a helipad there, right? Yeah, exactly.",joy
+val,Ses01M_impro07,Ses01M_impro07_M017,M,They do it's--believe me it's huge.,joy
+val,Ses01M_impro07,Ses01M_impro07_M018,M,I just got into it. I just kind of fell into it. Literally I was walking around and...,joy
+val,Ses01M_impro07,Ses01M_impro07_M019,M,It's pretty wild.,joy
+val,Ses01M_impro07,Ses01M_impro07_M020,M,"Yeah, well I doubt [GARBAGE] ping pong [GARBAGE]",neutral
+val,Ses01M_impro07,Ses01M_impro07_M021,M,Oh you mean it's not really sport that what you're saying?,surprise
+val,Ses01M_impro07,Ses01M_impro07_M022,M,It's totally a sport. What are you talking about?,surprise
+val,Ses01M_impro07,Ses01M_impro07_M024,M,For free that's really what it's about. I mean who cares I mean if I have to play softball all the time?,joy
+val,Ses01M_impro07,Ses01M_impro07_M026,M,Yeah we have like away games and stuff.,neutral
+val,Ses01M_impro07,Ses01M_impro07_M030,M,But you know I'm like [GARBAGE].,neutral
+val,Ses01M_impro07,Ses01M_impro07_M032,M,I'm going to have a mustache...On the force...,joy
+val,Ses01M_impro07,Ses01M_impro07_M033,M,Pull over..,joy
+val,Ses02F_impro03,Ses02F_impro03_F000,F,"Oh my God.  Guess what, guess what, guess what, guess what, guess what, guess what?",joy
+val,Ses02F_impro03,Ses02F_impro03_F001,F,"Well, guess.  Guess, guess, guess, guess.",joy
+val,Ses02F_impro03,Ses02F_impro03_F004,F,I'm so excited.,joy
+val,Ses02F_impro03,Ses02F_impro03_F009,F,"like all they have And I was like, what's going on?  And he like takes my hand and pulls me into the middle and he's like--you know, get's on his knee and everything--And says will you marry me? And I flipped out.",joy
+val,Ses02F_impro03,Ses02F_impro03_F011,F,'Cause- 'Cause he was with me. You didn't do it did you?,joy
+val,Ses02F_impro03,Ses02F_impro03_F012,F,You didn't know anything?,joy
+val,Ses02F_impro03,Ses02F_impro03_F013,F,"I was just--it was so like I thought this might happen eventually, but like not yet, you know what I mean?  Like--",joy
+val,Ses02F_impro03,Ses02F_impro03_F014,F,"It is good.  It's totally good.  I mean, it like oh, you know.",joy
+val,Ses02F_impro03,Ses02F_impro03_F015,F,I know. So we're gonna take it--Like we're not gonna get married right away--'Cause we want to like have plenty of time to plan everything out,joy
+val,Ses02F_impro03,Ses02F_impro03_F016,F,"...and, um, my parents want to like be part of it and help out and everything--So we want to give it lots of time to like--",joy
+val,Ses02F_impro03,Ses02F_impro03_F017,F,"Yeah, yeah, I called them. I called them And, of course, they were so excited 'cause they love him. Like they always have.  Um--",joy
+val,Ses02F_impro03,Ses02F_impro03_F018,F,"So, yeah, I mean, it'll be good.  We wanna like, uh, I think we're gonna have it in spring time, like early Spring--So it's no too hot yet.  And um--",joy
+val,Ses02F_impro03,Ses02F_impro03_F019,F,"I don't know.  I mean, I kinda like the idea of having something outside, but--Like--is a- Yeah,",joy
+val,Ses02F_impro03,Ses02F_impro03_F021,F,"Yeah, I don't know-[LAUGHTER]-I mean--I can't even--the whole idea of like living--spending my whole life with somebody--that's crazy",joy
+val,Ses02F_impro03,Ses02F_impro03_F023,F,Thank you. Thank you so much.,joy
+val,Ses02F_impro03,Ses02F_impro03_F024,F,"Oh, you will--You'll find just the right girl.  And she'll be perfect for you and everything will be great.",joy
+val,Ses02F_impro03,Ses02F_impro03_F026,F,"Yeah, it's pretty good.",joy
+val,Ses02F_impro03,Ses02F_impro03_F027,F,"Of course, of course--you'll be able to be a part of it.  You can come help me pick my colors.",joy
+val,Ses02F_impro03,Ses02F_impro03_F028,F,"It's so girly.  I don't even know how to like--It's so weird, but it'll be fun.  My mom will love to be like--she'll get so into it, I'm sure.",joy
+val,Ses02F_impro03,Ses02F_impro03_F029,F,She'll be like--flowers and the--,joy
+val,Ses02F_impro03,Ses02F_impro03_F030,F,"Oh, thank you. [LAUGHTER]",joy
+val,Ses02F_impro03,Ses02F_impro03_M001,M,"Um, you--",neutral
+val,Ses02F_impro03,Ses02F_impro03_M002,M,No.  Let me see.,surprise
+val,Ses02F_impro03,Ses02F_impro03_M004,M,That is great.  You look radiant.  I should've guess.,joy
+val,Ses02F_impro03,Ses02F_impro03_M005,M,"Well, Tell me about him.  What happened.",joy
+val,Ses02F_impro03,Ses02F_impro03_M006,M,What?,surprise
+val,Ses02F_impro03,Ses02F_impro03_M007,M,That--that is the most romantic thing I have ever heard.,surprise
+val,Ses02F_impro03,Ses02F_impro03_M009,M,"Yeah.  I mean candles wouldn't stay--No, I didn't--I didn't know anything about it.",joy
+val,Ses02F_impro03,Ses02F_impro03_M010,M,No. I'm just as happy as you are.  This is--,joy
+val,Ses02F_impro03,Ses02F_impro03_M011,M,"So, I mean--it's good though.",joy
+val,Ses02F_impro03,Ses02F_impro03_M012,M,"Yeah, I know.  Wow.  I'm shaking.  I can't even--",joy
+val,Ses02F_impro03,Ses02F_impro03_M013,M,"Oh. Do they--do they know yet? Have you told them? Oh, that's--",neutral
+val,Ses02F_impro03,Ses02F_impro03_M014,M,That's great.  Yeah.,neutral
+val,Ses02F_impro03,Ses02F_impro03_M015,M,Okay. You know--you know where?  Or--,neutral
+val,Ses02F_impro03,Ses02F_impro03_M016,M,"Uh, huh. I mean, you know, it's spring--It'll be--",neutral
+val,Ses02F_impro03,Ses02F_impro03_M017,M,Spring's nice though.,neutral
+val,Ses02F_impro03,Ses02F_impro03_M018,M,"Yeah, that is--how long you guys been together now?",neutral
+val,Ses02F_impro03,Ses02F_impro03_M019,M,Okay.  All right.  So-[LAUGHTER]-quite a while.  I mean--That's-  That's good.  I'm so happy for you. [LAUGHTER],joy
+val,Ses02F_impro03,Ses02F_impro03_M020,M,"Yeah, I'd love to be in that same situation some day, but, wow- so-",joy
+val,Ses02F_impro03,Ses02F_impro03_M022,M,"Oh, I approve. I-[LAUGHTER]-I more than approve.",joy
+val,Ses02F_impro03,Ses02F_impro03_M023,M,"I mean, I'm surprised he didn't, ya know--go get a plane to fly over and shine--But candles on the beach, that's okay too I guess--",joy
+val,Ses02F_impro03,Ses02F_impro03_M024,M,"Well--can--I mean, let me know--I want- I want invitations and--",joy
+val,Ses02F_impro03,Ses02F_impro03_M025,M,"Oh, yes.  This is the whole [GARBAGE]",joy
+val,Ses02F_impro03,Ses02F_impro03_M026,M,"It'll be good.  Wow, that's great.",joy
+val,Ses02F_impro04,Ses02F_impro04_F000,F,I'm--every lead that I get ends up just being a dead end.  You know what I mean.  People are sick of me calling--,anger
+val,Ses02F_impro04,Ses02F_impro04_F001,F,"Yeah, but it--I mean it's the same response you get over and over again.  Like--",anger
+val,Ses02F_impro04,Ses02F_impro04_F002,F,"Oh, we're not hiring at this time or thank you, we already have your information on file--We'll call you when we're ready.",anger
+val,Ses02F_impro04,Ses02F_impro04_F003,F,"But, it's been so long, like--I mine as well just take a job at McDonald's.  Like, I don't--",anger
+val,Ses02F_impro04,Ses02F_impro04_F004,F,"I just--I can't do it anymore.  Like, it just takes it out of you--",anger
+val,Ses02F_impro04,Ses02F_impro04_F005,F,I just keep getting rejected.  I just keep getting rejected over and over and over again and it starts to make you feel like there must be something wrong with you that you can't get a job.,anger
+val,Ses02F_impro04,Ses02F_impro04_F006,F,"Yeah, but maybe--if just because it's competitive, like maybe I'm just not good enough.  Maybe the level is here and I'm here and there's just no way I'm ever gonna do that--",anger
+val,Ses02F_impro04,Ses02F_impro04_F007,F,"I didn't have like one of those starts, you know, like a family member who was already in the business or something you know that could like give me a helping hand.",anger
+val,Ses02F_impro04,Ses02F_impro04_F008,F,"It's just so frustrating.  Like, I just--I just don't wanna do it anymore.  You know?  I just don't wanna like hit the pavement every single day with my resumes and going out there all the time.  You know, it's just like--",anger
+val,Ses02F_impro04,Ses02F_impro04_F009,F,I feel so worthless.,sadness
+val,Ses02F_impro04,Ses02F_impro04_F010,F,And what would make you say that?  There doesn't seem to be any indicators that anything's going to get better.,anger
+val,Ses02F_impro04,Ses02F_impro04_F011,F,"It's just really hard.  I feel like their starting to get like a personal prejudice against me.  You know what I mean?  Like it's like suddenly it starts to feel like it's just you that they say no to and it's not that they're not taking applications and it's not that they're not hiring people, it's just you particularly they have some particular reason for just hating you.  You know?",anger
+val,Ses02F_impro04,Ses02F_impro04_F012,F,Or they'll never talk to me again.,anger
+val,Ses02F_impro04,Ses02F_impro04_F013,F,"I-I just I think maybe I should try something else.  I mean, I-I don't know.  All growing up this is the only thing that I ever wanted to do and yet I can't.  I'm not physically able apparently.  I mean--",anger
+val,Ses02F_impro04,Ses02F_impro04_F014,F,"I guess the money shouldn't matter to me, but--Somehow it does.  You know? It's not like I do it for the money, but",anger
+val,Ses02F_impro04,Ses02F_impro04_F015,F,"you have to--I mean, if you're hired by somebody, then you're not a professional, you're an amateur and that means that you're not good enough.",anger
+val,Ses02F_impro04,Ses02F_impro04_F016,F,"I just wanna crawl in a hole, you know.  Like it just makes you not wanna even open your eyes in the morning.",sadness
+val,Ses02F_impro04,Ses02F_impro04_M000,M,"So, uh, so how's it been going?  I mean, you have any needs or anything?",neutral
+val,Ses02F_impro04,Ses02F_impro04_M001,M,"No.  You can't think that way.  I mean it's good--it's good that you're--that you're calling, you know. you can't",neutral
+val,Ses02F_impro04,Ses02F_impro04_M003,M,"No, come on.  Don't [GARBAGE]",neutral
+val,Ses02F_impro04,Ses02F_impro04_M004,M,"I know.  I know. It's hard, but you just--you gotta keep going.  I mean, you've been going at it for so long, you know.  Something is definitely going to come up.  I-I know it will, because you're a good worker--",neutral
+val,Ses02F_impro04,Ses02F_impro04_M005,M,"No.  It's--I mean, it's competitive, you know.  That's-That's what it is.  that's what you gotta be is competitive.",neutral
+val,Ses02F_impro04,Ses02F_impro04_M006,M,"There...There are plenty of people out there with--with like, good jobs, you know, that are a lot...",neutral
+val,Ses02F_impro04,Ses02F_impro04_M007,M,...dumber than you.  I mean they're a lot worse off than you.  You are much better off than like a lot of those people in there. I know,neutral
+val,Ses02F_impro04,Ses02F_impro04_M008,M,"I know.  It makes it harder.  I mean it's definitely who you know in a lot of cases, but--",neutral
+val,Ses02F_impro04,Ses02F_impro04_M009,M,"But you gotta.  Otherwise, what is--what's your other option?",neutral
+val,Ses02F_impro04,Ses02F_impro04_M010,M,"It's not worthless 'cause it's definitely gonna--it's definitely gonna pay off.  I know it.  I mean, I can--I've just--I've seen your work etiquette.  You know, you're a good worker and...",neutral
+val,Ses02F_impro04,Ses02F_impro04_M011,M,... and there's no reason that--that something won't come up like really soon.  All right?  So you just gotta--,neutral
+val,Ses02F_impro04,Ses02F_impro04_M012,M,"Because I know you.  You know, and maybe once you get to know some more people, like talking to them and everything, they'll get to know you too and they'll realize they should've hired you three years ago.  You know? but  And- and they'll finally come around and believe me--it'll--you gotta-",neutral
+val,Ses02F_impro04,Ses02F_impro04_M013,M,"Well maybe yeah, but maybe you get to that point where it's like you bug 'em and then they just don't wanna hear from you anymore, but you keep bugging them and bugging them and then it's gonna annoy them so much that they're gonna be like all right fine. you know",neutral
+val,Ses02F_impro04,Ses02F_impro04_M014,M,"Or, well, no.  Okay. you -[GARBAGE]",anger
+val,Ses02F_impro04,Ses02F_impro04_M015,M,"That obviously that's not true though.  I mean, you've done this before.  You've done all the work like this before, you know, and and you've gotten people saying oh, you're so good and like you know--",neutral
+val,Ses02F_impro04,Ses02F_impro04_M016,M,Right.,neutral
+val,Ses02F_impro04,Ses02F_impro04_M017,M,"Well, you've gotta live.",neutral
+val,Ses02F_impro04,Ses02F_impro04_M018,M,"I mean, it's just, it's really--I don't know, yeah, it's about their opinions and it's about, I don't know, just getting yourself out there and--",neutral
+val,Ses02F_impro04,Ses02F_impro04_M019,M,"Well, come on, come on.  Thinking about it like this is definitely not gonna help either though.",neutral
+val,Ses02M_impro04,Ses02M_impro04_F000,F,So how you feeling?,neutral
+val,Ses02M_impro04,Ses02M_impro04_F001,F,"You've been doing a lot of work for it, right?",neutral
+val,Ses02M_impro04,Ses02M_impro04_F002,F,"Right, so the fact you doing the best that you can is -",neutral
+val,Ses02M_impro04,Ses02M_impro04_F003,F,"you know you shouldn't give yourself a hard time for that, it's the best you can.",neutral
+val,Ses02M_impro04,Ses02M_impro04_F004,F,"Well, but you care about what you do, right?",neutral
+val,Ses02M_impro04,Ses02M_impro04_F005,F,"I understand that it's so frustrating but I know that you're here because you really want it you know and, and uh",neutral
+val,Ses02M_impro04,Ses02M_impro04_F006,F,"Well, I mean you're still here you've tried for this long so I think that says something all in itself.",neutral
+val,Ses02M_impro04,Ses02M_impro04_F007,F,You are persistence. I mean that's important. that's,neutral
+val,Ses02M_impro04,Ses02M_impro04_F008,F,"Well, you're talented so keep that in mind, you know, you shouldn't give yourself too hard of a time.",neutral
+val,Ses02M_impro04,Ses02M_impro04_F009,F,I'm sorry.,sadness
+val,Ses02M_impro04,Ses02M_impro04_F010,F,"That's- I mean. There are more factors then just whether you're good or not, you know what I mean like",neutral
+val,Ses02M_impro04,Ses02M_impro04_F011,F,"and the fact that you know there is always different types of things and what kind of people they want in the office and whether it's male or female or you know what I mean, like things are out of your control.",neutral
+val,Ses02M_impro04,Ses02M_impro04_F012,F,So you should take that in consideration rather than giving yourself such a hard time.,neutral
+val,Ses02M_impro04,Ses02M_impro04_F014,F,"You know and the fact you still here and still cooking, like it's good that you're thinking about it, that you're reconsidering.",neutral
+val,Ses02M_impro04,Ses02M_impro04_F015,F,"But like, just because you're considering why it's been so difficult doesn't mean you should just stop.",neutral
+val,Ses02M_impro04,Ses02M_impro04_F016,F,"Maybe you should take a little break from it, but I don't think you should stop.",neutral
+val,Ses02M_impro04,Ses02M_impro04_M000,M,"Uhm, I don't know",anger
+val,Ses02M_impro04,Ses02M_impro04_M001,M,I don't know what I'm going to do about this; I mean,anger
+val,Ses02M_impro04,Ses02M_impro04_M002,M,"I have got to get a job, you know? Like-",anger
+val,Ses02M_impro04,Ses02M_impro04_M003,M,"Well, yea you know, I get my resumes and I mean I-",anger
+val,Ses02M_impro04,Ses02M_impro04_M004,M,"I go out all the places I can, every place that'll give an interview you know.",anger
+val,Ses02M_impro04,Ses02M_impro04_M005,M,"But it's been so long, like what - what am I - what am I waiting -- I should probably just do something else, or",anger
+val,Ses02M_impro04,Ses02M_impro04_M006,M,"I don't know, I mean why - why",anger
+val,Ses02M_impro04,Ses02M_impro04_M007,M,"Yea, but it's - it's almost like it's not worth it you know, if I'm going to waste to have my life like trying to get a job, I mean once I actually do get the job it's like oh, retirement or something. I don't know, you know.",anger
+val,Ses02M_impro04,Ses02M_impro04_M009,M,"I don't even know if it's going to be worth it because I can't break myself in, you know like I can't - can't even get a foot in the door you know.",anger
+val,Ses02M_impro04,Ses02M_impro04_M010,M,"Yea, it says I'm stupid enough to be trying this long and not move on somewhere else.",anger
+val,Ses02M_impro04,Ses02M_impro04_M011,M,"I mean, I can't- I can't be persistent forever, you know, you can't not have a job forever, you know, I've got- I've got to do something, I've got to make money and get food on the table.",anger
+val,Ses02M_impro04,Ses02M_impro04_M012,M,"I mean, maybe I'm not, you know. I don't have a job. Maybe - maybe I'm not as good as-as I thought I was and",anger
+val,Ses02M_impro04,Ses02M_impro04_M013,M,I just got a whole skewed opinion on just how this is supposed to work out and,anger
+val,Ses02M_impro04,Ses02M_impro04_M014,M,"I don't know, it's just not, I don't know - I don't know what to do really, you know, I'm just thinking",sadness
+val,Ses02M_impro04,Ses02M_impro04_M015,M,"maybe - maybe take up painting, I don't know, you know.",anger
+val,Ses02M_impro04,Ses02M_impro04_M016,M,"Do something that I don't have to go out and do something, stay at home, I don't know.",anger
+val,Ses02M_impro04,Ses02M_impro04_M017,M,Seems like the only option at this point because obviously the outer world has just rejected me of all possible employment.,anger
+val,Ses02M_impro04,Ses02M_impro04_M018,M,"I know, but I mean- if that's the - you know, I'm either like the worst at this or just the most unlucky person on the planet I mean this doesn't",anger
+val,Ses02M_impro04,Ses02M_impro04_M019,M,this doesn't happen to a normal person.,anger
+val,Ses02M_impro04,Ses02M_impro04_M020,M,"I mean, I don't know, I don't see - I don't see any other way - any other way around it right now.",anger
+val,Ses02M_impro04,Ses02M_impro04_M022,M,Right. Thanks for talking to me.,sadness
+val,Ses03F_impro05,Ses03F_impro05_F000,F,"Look sir, I've been waiting for about an hour and my luggage still hasn't come. What's going on?",anger
+val,Ses03F_impro05,Ses03F_impro05_F001,F,"What do you mean, you don't know what to tell me? I have two luggage that I've been coming--they're coming--from France and I need them here. I'm home now. I need to go start working.",anger
+val,Ses03F_impro05,Ses03F_impro05_F002,F,"Where? I don't know. The lost and found. What do you mean, lost and found?",anger
+val,Ses03F_impro05,Ses03F_impro05_F003,F,I had my luggage transferred here from Paris to L.A. and now I'm here and I need to be working and I have all my stuff in there.,anger
+val,Ses03F_impro05,Ses03F_impro05_F004,F,"Well, that's what I'm asking you. What--I don't know what happened to it.",anger
+val,Ses03F_impro05,Ses03F_impro05_F005,F,"Wait, sir. You're- You're completely not--what do you mean, stole it? How can they just steal it from an airplane? It was up in the air?",anger
+val,Ses03F_impro05,Ses03F_impro05_F006,F,Okay. All I know is that I am supposed to have my language here right now. Right now. And it's not there. And you're supposed to help me because you work at the airport. So give me my luggage or tell me where the hell it is.,anger
+val,Ses03F_impro05,Ses03F_impro05_F007,F,"What do you mean, if it shows up? No, I need it now. I have my keys, I have my wallet, I have my money. I have thousands and thousands of dollars worth of stuff in there.",anger
+val,Ses03F_impro05,Ses03F_impro05_F008,F,Not to mention I have my work in there.,anger
+val,Ses03F_impro05,Ses03F_impro05_F009,F,"And what if- what if it is lost? Well, what are you guys going to do for me?",anger
+val,Ses03F_impro05,Ses03F_impro05_F010,F,Fifteen percent?,anger
+val,Ses03F_impro05,Ses03F_impro05_F011,F,What? There- There's hundreds of thousands of dollars worth of stuff in there.,anger
+val,Ses03F_impro05,Ses03F_impro05_F012,F,"No, no, no. You don't understand. This is--these are my belongings in the luggage. And I went to Paris.",anger
+val,Ses03F_impro05,Ses03F_impro05_F013,F,"Sir, why are you laughing at me? This isn't funny.",anger
+val,Ses03F_impro05,Ses03F_impro05_F015,F,"No, they said I couldn't lock it.",anger
+val,Ses03F_impro05,Ses03F_impro05_F016,F,Give me--I'm going to talk to your supervisor. Give me your supervisor. I want to talk to your supervisor right now.,anger
+val,Ses03F_impro05,Ses03F_impro05_F017,F,"Well, get- I want the C.E.O. then.",anger
+val,Ses03F_impro05,Ses03F_impro05_M000,M,"I'm sorry, Mrs. Rosenkrantz, but uh- I don't know what to tell you.",anger
+val,Ses03F_impro05,Ses03F_impro05_M001,M,Did you- Did you check with the lost and found?,anger
+val,Ses03F_impro05,Ses03F_impro05_M002,M,"Maybe it got lost. Did you think about that, mom?",anger
+val,Ses03F_impro05,Ses03F_impro05_M003,M,"Oh, not--we didn't lose it; maybe the airport lost it. Maybe someone stole it.",neutral
+val,Ses03F_impro05,Ses03F_impro05_M004,M,"No, I mean, maybe in the little--going around thingy thing where bopper stole it from there.",anger
+val,Ses03F_impro05,Ses03F_impro05_M005,M,Okay. What can we do is we can get your name and information and if it shows up we can send it to you so-- Wherever you stay,anger
+val,Ses03F_impro05,Ses03F_impro05_M006,M,"Well, I'll have you fill out some paperwork and see if you can get started on something.",anger
+val,Ses03F_impro05,Ses03F_impro05_M008,M,and when you sign your ticket we could replace about fifteen percent of what's in the bag.,neutral
+val,Ses03F_impro05,Ses03F_impro05_M009,M,Up to a limit of twenty five dollars.,neutral
+val,Ses03F_impro05,Ses03F_impro05_M010,M,"Whoa, maybe you should uh- have thought of a better way to send it than just in a bag, hmm? Did you think about that?",anger
+val,Ses03F_impro05,Ses03F_impro05_M011,M,"I think that's kind of stupid, that you put a hundred thousands of dollars in the bag.",neutral
+val,Ses03F_impro05,Ses03F_impro05_M012,M,Did you lock- Did you lock it even? You probably didn't even lock it.,anger
+val,Ses03F_impro05,Ses03F_impro05_M013,M,"Okay, let me get him.Oh, guess who the supervisor is? It's me.",neutral
+val,Ses03F_impro05,Ses03F_impro05_M014,M,"What, do you have questions?",neutral
+val,Ses03F_impro07,Ses03F_impro07_F001,F,"Uh-, So I got some good news.",joy
+val,Ses03F_impro07,Ses03F_impro07_F003,F,Pregnant? What are you talking about? No.,surprise
+val,Ses03F_impro07,Ses03F_impro07_F004,F,I have some better news than that.,joy
+val,Ses03F_impro07,Ses03F_impro07_F005,F,"Yes, What would you want more than anything in this world?",joy
+val,Ses03F_impro07,Ses03F_impro07_F007,F,"I got--U.S.C.. I got- Yeah, I got the acceptance letter.",joy
+val,Ses03F_impro07,Ses03F_impro07_F008,F,"Yes, me, I got in. Thank you very much.",joy
+val,Ses03F_impro07,Ses03F_impro07_F009,F,"Yeah, I know, my mom called me. I was with my girlfriend in Boston, and uh- she got the letter and she called me, she said I don't know, do you want me to open it? And I was like yes, open it. And she opened it and she goes oh, I'm sorry, Nat.",joy
+val,Ses03F_impro07,Ses03F_impro07_F011,F,"And my mom was like Natalie, Natalie, it's [GARBAGE], you know-",joy
+val,Ses03F_impro07,Ses03F_impro07_F012,F,"and so, I mean, I got in.",joy
+val,Ses03F_impro07,Ses03F_impro07_F013,F,So now I can stay here and now we can party. I know.,joy
+val,Ses03F_impro07,Ses03F_impro07_F014,F,"Yeah, why not.",joy
+val,Ses03F_impro07,Ses03F_impro07_F015,F,"We're not twenty one yet, but whatever.",neutral
+val,Ses03F_impro07,Ses03F_impro07_F016,F,"[LAUGHTER]. I'm so excited, Joe. Oh, man, I-- And I got in--I got into the school of theatre, so it's like-",joy
+val,Ses03F_impro07,Ses03F_impro07_F017,F,Yeah. It's really cool.,joy
+val,Ses03F_impro07,Ses03F_impro07_F019,F,Top five in the nation.,joy
+val,Ses03F_impro07,Ses03F_impro07_F020,F,"Acting Pants? So what are you going to do? Are you--you're be--you're going to stay here, right?",joy
+val,Ses03F_impro07,Ses03F_impro07_F021,F,Awesome. We're both going to be in L.A.,joy
+val,Ses03F_impro07,Ses03F_impro07_F022,F,"I'm so excited. Yeah, I thought I was going to go to Boston, but then--",joy
+val,Ses03F_impro07,Ses03F_impro07_F023,F,"Oh man, I'm so excited. So much to do.",joy
+val,Ses03F_impro07,Ses03F_impro07_F025,F,I'm just so excited to start my life.,joy
+val,Ses03F_impro07,Ses03F_impro07_F026,F,"Oh, and you sit down and you have the sponge bread-- --and eat the--drink the beer. Ugh, I love that stuff. I'm so excited.",joy
+val,Ses03F_impro07,Ses03F_impro07_F027,F,Are you going to come stay in my dorm with me sometime?,joy
+val,Ses03F_impro07,Ses03F_impro07_F028,F,Yeah. I'll get like one of those little--,joy
+val,Ses03F_impro07,Ses03F_impro07_F029,F,Yeah. Those little-- --mattresses. I'll put it by my bed.,joy
+val,Ses03F_impro07,Ses03F_impro07_F031,F,That's going to--that'll be reserved for somebody else.,neutral
+val,Ses03F_impro07,Ses03F_impro07_F032,F,[LAUGHTER] Hello? I am not.,joy
+val,Ses03F_impro07,Ses03F_impro07_F034,F,"[LAUGHTER]. No, you'd get used to it.",joy
+val,Ses03F_impro07,Ses03F_impro07_F035,F,"[LAUGHTER]. Oh, Joe, I'm so happy.",joy
+val,Ses03F_impro07,Ses03F_impro07_M000,M,"Hey, Isabella.",neutral
+val,Ses03F_impro07,Ses03F_impro07_M001,M,I'm all right.,neutral
+val,Ses03F_impro07,Ses03F_impro07_M003,M,You're not pregnant or anything.,neutral
+val,Ses03F_impro07,Ses03F_impro07_M004,M,"I know you've been trying to have a baby, right?",neutral
+val,Ses03F_impro07,Ses03F_impro07_M008,M,Which one?,joy
+val,Ses03F_impro07,Ses03F_impro07_M009,M,oh really?,surprise
+val,Ses03F_impro07,Ses03F_impro07_M011,M,Good for you.,joy
+val,Ses03F_impro07,Ses03F_impro07_M012,M,oh yeah.,neutral
+val,Ses03F_impro07,Ses03F_impro07_M013,M,"Oh, Jesus. That is so amazing.",joy
+val,Ses03F_impro07,Ses03F_impro07_M014,M,Party. You want to get drunk tonight?,joy
+val,Ses03F_impro07,Ses03F_impro07_M015,M,"Yeah, we're going to celebrate.",joy
+val,Ses03F_impro07,Ses03F_impro07_M017,M,Shit. That's-,surprise
+val,Ses03F_impro07,Ses03F_impro07_M018,M,"Oh, my God. That's--I heard it's top five-- --in the Grauman scale or something.",surprise
+val,Ses03F_impro07,Ses03F_impro07_M019,M,Who-whooooo. Miss Acti- Acting Pants.,joy
+val,Ses03F_impro07,Ses03F_impro07_M021,M,I got into film school at the Art Academy.,neutral
+val,Ses03F_impro07,Ses03F_impro07_M022,M,So I'm going to be--yeah. I'm going to make films; you're going to be in them.,joy
+val,Ses03F_impro07,Ses03F_impro07_M023,M,Fuck Boston.,neutral
+val,Ses03F_impro07,Ses03F_impro07_M025,M,We should uh- go to Little Ethiopia.,neutral
+val,Ses03F_impro07,Ses03F_impro07_M026,M,"Hell, yeah. Pass out.",joy
+val,Ses03F_impro07,Ses03F_impro07_M027,M,-drunk.,joy
+val,Ses03F_impro07,Ses03F_impro07_M028,M,"No, I'll sleep in your bed. Cuddle up.",joy
+val,Ses03F_impro07,Ses03F_impro07_M029,M,Uh-oh.,joy
+val,Ses03F_impro07,Ses03F_impro07_M032,M,Yeah.,joy
+val,Ses03F_impro07,Ses03F_impro07_M033,M,"Well, get used to it.",neutral
+val,Ses03F_impro07,Ses03F_impro07_M034,M,"Hey, I'm already getting used to it.",joy
+val,Ses03F_impro07,Ses03F_impro07_M035,M,"Me too, Isabella.",joy
+val,Ses03M_impro03,Ses03M_impro03_F001,F,What?,joy
+val,Ses03M_impro03,Ses03M_impro03_F002,F,Shut up. Oh my God.  Really? Just like that?  You just asked the question and what...how did you ask?,surprise
+val,Ses03M_impro03,Ses03M_impro03_F003,F,"Chuck E. Cheese?  Ah, man that is so lame.",joy
+val,Ses03M_impro03,Ses03M_impro03_F004,F,Are you serious [GARBAGE] man?,joy
+val,Ses03M_impro03,Ses03M_impro03_F005,F,Oh like that one movie.  What's that one movie I just saw? No.  Where she like swallows the...,joy
+val,Ses03M_impro03,Ses03M_impro03_F006,F,"oh, I don't remember.  Everybody Says I Love You with Drew Barrymore...no you haven't seen it?  Okay.",joy
+val,Ses03M_impro03,Ses03M_impro03_F010,F,[LAUGHTER] So nasty. No you... dirty me?,joy
+val,Ses03M_impro03,Ses03M_impro03_F012,F,She actually asked if it was real?  I would've probably asked the same thing considering you were in Chuck E. Cheese.,joy
+val,Ses03M_impro03,Ses03M_impro03_F015,F,"Yeah.  That's, you know, okay.",neutral
+val,Ses03M_impro03,Ses03M_impro03_F016,F,"Oh god! You are damn cheap, cheap, cheap. Anyways, moving on. It's not like you're poor.  I mean your dad makes... okey",joy
+val,Ses03M_impro03,Ses03M_impro03_F017,F,You had the mouse?,joy
+val,Ses03M_impro03,Ses03M_impro03_F018,F,Isn't it a rat?  It's a rat.  Chuck E. Cheese?,neutral
+val,Ses03M_impro03,Ses03M_impro03_F021,F,"Okay, that is really cheesy Joe.",joy
+val,Ses03M_impro03,Ses03M_impro03_F022,F,Oh that's kind of sweet.,joy
+val,Ses03M_impro03,Ses03M_impro03_F023,F,"Wait, wait, wait I want you to marry me?  No, shouldn't you like be more like a question like, would you marry me?  Not like I want you to marry me.  It's like a demand.",joy
+val,Ses03M_impro03,Ses03M_impro03_F024,F,"You marry me. I man I Jane, you Tarzan.",joy
+val,Ses03M_impro03,Ses03M_impro03_F025,F,She said sure?,joy
+val,Ses03M_impro03,Ses03M_impro03_F026,F,Sure?  Who says sure?  You say yes...I don't like--,joy
+val,Ses03M_impro03,Ses03M_impro03_F027,F,How long have you guys been going out?,joy
+val,Ses03M_impro03,Ses03M_impro03_F028,F,What?,surprise
+val,Ses03M_impro03,Ses03M_impro03_F029,F,What?,surprise
+val,Ses03M_impro03,Ses03M_impro03_F030,F,Okay.  I haven't seen you in about two and a half years and I come back and you're getting engaged to somebody you only knew for,surprise
+val,Ses03M_impro03,Ses03M_impro03_F033,F,She must be hot.,joy
+val,Ses03M_impro03,Ses03M_impro03_F036,F,You still act like a boy.  And men take a lot longer to grow----I will tell you.,neutral
+val,Ses03M_impro03,Ses03M_impro03_M000,M,Hey.,joy
+val,Ses03M_impro03,Ses03M_impro03_M001,M,"Esmeralda, guess what?",joy
+val,Ses03M_impro03,Ses03M_impro03_M002,M,[LAUGHTER] Guess who just got hitched?,joy
+val,Ses03M_impro03,Ses03M_impro03_M003,M,This guy. Yeah.  Can you believe it? She said yes too. Yeah.  She said yes.,joy
+val,Ses03M_impro03,Ses03M_impro03_M004,M,Okay we were at Chuck E. Cheese.,joy
+val,Ses03M_impro03,Ses03M_impro03_M011,M,"Ah...Anyways, so she took the ring and she goes, is this real?  So I was like, of course--",joy
+val,Ses03M_impro03,Ses03M_impro03_M012,M,Sara and I--,joy
+val,Ses03M_impro03,Ses03M_impro03_M013,M,Come on. It was her birthday.,joy
+val,Ses03M_impro03,Ses03M_impro03_M014,M,She wanted...she always wants something spontaneous.,joy
+val,Ses03M_impro03,Ses03M_impro03_M015,M,"I couldn't, I couldn't afford the Red Lobster. [LAUGHTER] What anyway?",joy
+val,Ses03M_impro03,Ses03M_impro03_M016,M,So Okay then and.,joy
+val,Ses03M_impro03,Ses03M_impro03_M017,M,"I got all the character animals to do a conga line,",joy
+val,Ses03M_impro03,Ses03M_impro03_M018,M,"dim down the lights and uh, I got on one of the tables pulled her up.",joy
+val,Ses03M_impro03,Ses03M_impro03_M019,M,Yeah.,joy
+val,Ses03M_impro03,Ses03M_impro03_M020,M,"Chucky...I don't know.  I don't know. Anyways, I pull her up and I go, I go Sarah",joy
+val,Ses03M_impro03,Ses03M_impro03_M021,M,"You're my guiding light, then they put on that song the I've had the time of my life, that song.",joy
+val,Ses03M_impro03,Ses03M_impro03_M028,M,About two and a half weeks.,neutral
+val,Ses03M_impro03,Ses03M_impro03_M029,M,Two and ...  We love each other. Yeah.,joy
+val,Ses03M_impro03,Ses03M_impro03_M030,M,"You got to meet her, she's wonderful.",joy
+val,Ses03M_impro03,Ses03M_impro03_M031,M,She just graduated from high school and----she's planning to apply for colleges----and stuff.She's so great.  She has so much life and energy and stuff.,joy
+val,Ses03M_impro03,Ses03M_impro03_M032,M,"Yeah, she is good-looking.",joy
+val,Ses03M_impro03,Ses03M_impro03_M033,M,I'm twenty eight years old.,neutral
+val,Ses03M_impro03,Ses03M_impro03_M035,M,I'm so excited.  It's going to be great.,joy
+val,Ses03M_impro03,Ses03M_impro03_M038,M,I'm still working at my parents' restaurant. Busing tables.,neutral
+val,Ses03M_impro03,Ses03M_impro03_M039,M,Oh that's great. My mom said we can move in with her again if we run out of money.,joy
+val,Ses03M_impro06,Ses03M_impro06_F000,F,How's it going?  How are you feeling?,sadness
+val,Ses03M_impro06,Ses03M_impro06_F001,F,Hanging in there?,sadness
+val,Ses03M_impro06,Ses03M_impro06_F002,F,So sad.,sadness
+val,Ses03M_impro06,Ses03M_impro06_F003,F,Yeah.,sadness
+val,Ses03M_impro06,Ses03M_impro06_F004,F,You guys were real close huh?,sadness
+val,Ses03M_impro06,Ses03M_impro06_F005,F,I'm so sorry.,sadness
+val,Ses03M_impro06,Ses03M_impro06_F007,F,What happened?  What went wrong?,sadness
+val,Ses03M_impro06,Ses03M_impro06_F008,F,Oh man.,sadness
+val,Ses03M_impro06,Ses03M_impro06_F009,F,How are they?,sadness
+val,Ses03M_impro06,Ses03M_impro06_F010,F,Yeah.  Like I mean if you need anyone to talk to or anything I'm here for you okay?,sadness
+val,Ses03M_impro06,Ses03M_impro06_F011,F,We're all here for you.,sadness
+val,Ses03M_impro06,Ses03M_impro06_F012,F,I know.,sadness
+val,Ses03M_impro06,Ses03M_impro06_F013,F,just things happen in life and you just...there's just no explanation you know?  We just don't...,sadness
+val,Ses03M_impro06,Ses03M_impro06_F014,F,Yeah.,sadness
+val,Ses03M_impro06,Ses03M_impro06_F015,F,I'm so sorry.,sadness
+val,Ses03M_impro06,Ses03M_impro06_F016,F,"Well now you can follow his footsteps, you know?  Carry out what he wanted to do.",sadness
+val,Ses03M_impro06,Ses03M_impro06_F017,F,Well sure you could.,sadness
+val,Ses03M_impro06,Ses03M_impro06_F018,F,Yeah.,sadness
+val,Ses03M_impro06,Ses03M_impro06_F019,F,I would've loved to.,sadness
+val,Ses03M_impro06,Ses03M_impro06_F020,F,Now I can't.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M000,M,I ah--,sadness
+val,Ses03M_impro06,Ses03M_impro06_M001,M,alright.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M002,M,Yeah.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M003,M,It just feels like I was talking to him yesterday.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M004,M,He was my only friend growing up.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M005,M,no one else would talk to me but he would.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M006,M,He was supposed to be the best man at my wedding.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M007,M,Yeah.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M008,M,You know I was always the one to tell him to be more wild you know?,sadness
+val,Ses03M_impro06,Ses03M_impro06_M009,M,And he just took it overboard.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M010,M,You know a stupid case of drunk driving it's just...,sadness
+val,Ses03M_impro06,Ses03M_impro06_M011,M,"and the worst part of it is that he was in the car with his girlfriend,",sadness
+val,Ses03M_impro06,Ses03M_impro06_M012,M,his girlfriend got killed too.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M013,M,And the car that he hit was his family.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M014,M,The mother and father died--,sadness
+val,Ses03M_impro06,Ses03M_impro06_M015,M,and the kids are paralyzed in a coma right now.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M016,M,and just going to the funeral it's-,sadness
+val,Ses03M_impro06,Ses03M_impro06_M017,M,"-do I miss him or do I hate him, you know?",sadness
+val,Ses03M_impro06,Ses03M_impro06_M018,M,I was supposed to see him last summer,sadness
+val,Ses03M_impro06,Ses03M_impro06_M019,M,then I got busy with work and stuff and three years go by,sadness
+val,Ses03M_impro06,Ses03M_impro06_M020,M,and then something like this happens you know?,sadness
+val,Ses03M_impro06,Ses03M_impro06_M021,M,I mean I haven't even talked to him on the phone for the past three months.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M022,M,He's supposed to be my best friend.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M023,M,It's so fucked up.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M024,M,Why is that?,sadness
+val,Ses03M_impro06,Ses03M_impro06_M025,M,He was studying to be a doctor.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M026,M,"I mean he was...he wanted to help people in poor countries, that is his goal.  He didn't care about the money.  He just wanted to go and help people.",sadness
+val,Ses03M_impro06,Ses03M_impro06_M027,M,What the...what am I doing?,sadness
+val,Ses03M_impro06,Ses03M_impro06_M028,M,Working for corporate America?  Wow.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M029,M,He actually wanted to do something.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M030,M,I can't do that.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M031,M,You should've met him.,sadness
+val,Ses03M_impro06,Ses03M_impro06_M032,M,He is the greatest...everyone liked him.,sadness
+val,Ses04F_impro02,Ses04F_impro02_F000,F,Yeah.  They just called.,sadness
+val,Ses04F_impro02,Ses04F_impro02_F001,F,I know.,sadness
+val,Ses04F_impro02,Ses04F_impro02_F002,F,I don't know what to say.  I don't want to go but I don't have a lot of choice.,sadness
+val,Ses04F_impro02,Ses04F_impro02_F003,F,I'm going to come back.  I need you to believe that.,sadness
+val,Ses04F_impro02,Ses04F_impro02_F005,F,Well you have to have faith because I don't have a choice and I have to go.,sadness
+val,Ses04F_impro02,Ses04F_impro02_F006,F,Do you think I want to leave you?,sadness
+val,Ses04F_impro02,Ses04F_impro02_F007,F,I have to do this.  I don't want to leave.  Do you think I want to miss seeing her grow up?,sadness
+val,Ses04F_impro02,Ses04F_impro02_F008,F,Look we both knew what this meant when I signed on,anger
+val,Ses04F_impro02,Ses04F_impro02_F009,F,And now- and now it's really shitty timing but now I have to go.,sadness
+val,Ses04F_impro02,Ses04F_impro02_F010,F,I mean I'm the one who has to leave here.  I'm the one who has to leave the two of you.  At least you get to be together.,anger
+val,Ses04F_impro02,Ses04F_impro02_F011,F,What's that supposed to mean?,sadness
+val,Ses04F_impro02,Ses04F_impro02_F012,F,Well I'll come back.  What is that supposed to mean?  You're not willing to wait for me to come back?,anger
+val,Ses04F_impro02,Ses04F_impro02_F013,F,What do you want me to do?,anger
+val,Ses04F_impro02,Ses04F_impro02_F014,F,Well I can't very well do it today.  I still have to leave tomorrow.,anger
+val,Ses04F_impro02,Ses04F_impro02_F015,F,"You're not making this any easier for me, you know.  I'm the one who has to go and you're really not helping.",anger
+val,Ses04F_impro02,Ses04F_impro02_F016,F,I do have to go. And I need to know that you're here waiting for me and that you believe that I'm coming back.,anger
+val,Ses04F_impro02,Ses04F_impro02_F017,F,Thanks that helps.,anger
+val,Ses04F_impro02,Ses04F_impro02_F018,F,I feel much better now.,anger
+val,Ses04F_impro02,Ses04F_impro02_F019,F,I know I'm leaving you here with all the responsibility but at least you get to be with her.,anger
+val,Ses04F_impro02,Ses04F_impro02_F020,F,I will but I can't right now.,anger
+val,Ses04F_impro02,Ses04F_impro02_F022,F,That's how you want to leave it?,anger
+val,Ses04F_impro02,Ses04F_impro02_F023,F,I want you to be okay with it as much as you can be.  I mean it's not a great situation but we don't have an option here.,sadness
+val,Ses04F_impro02,Ses04F_impro02_F024,F,Fine.,sadness
+val,Ses04F_impro02,Ses04F_impro02_M000,M,So you're leaving tomorrow.,sadness
+val,Ses04F_impro02,Ses04F_impro02_M001,M,This is really-this is unfair.,sadness
+val,Ses04F_impro02,Ses04F_impro02_M002,M,I don't see [BREATHING],anger
+val,Ses04F_impro02,Ses04F_impro02_M003,M,"I mean we both knew that this was going to happen.  It's just that I feel that, you know, I don't want Susie growing up without a mother.",anger
+val,Ses04F_impro02,Ses04F_impro02_M004,M,"And, uh, I'm afraid that if you, you know, when you leave, you won't come back.",sadness
+val,Ses04F_impro02,Ses04F_impro02_M005,M,You don't know that.,anger
+val,Ses04F_impro02,Ses04F_impro02_M006,M,"I'll believe it, but- I'll believe it but it- I don't know that that's going to happen.",anger
+val,Ses04F_impro02,Ses04F_impro02_M008,M,You have a choice.,anger
+val,Ses04F_impro02,Ses04F_impro02_M009,M,I know.  It's just you don't have to do this for a living you know.,anger
+val,Ses04F_impro02,Ses04F_impro02_M010,M,You're a smart person.  There are other things you can do.,anger
+val,Ses04F_impro02,Ses04F_impro02_M012,M,I mean we can't-we're not a complete family without you here.,sadness
+val,Ses04F_impro02,Ses04F_impro02_M013,M,Of course I'm going to wait.  I just- I just don't like the idea of this happening because this isn't the last time this is going to happen. You're going to go on more tours and stuff.  I just- I can't-,anger
+val,Ses04F_impro02,Ses04F_impro02_M014,M,I can't deal with this emotionally.,anger
+val,Ses04F_impro02,Ses04F_impro02_M015,M,I want you to leave.  I want you to leave the service.,anger
+val,Ses04F_impro02,Ses04F_impro02_M016,M,You can do it today.  You don't have to do anything.  You don't have to do anything you don't want to do.,anger
+val,Ses04F_impro02,Ses04F_impro02_M017,M,Look I'm just telling you that you don't have to go.,anger
+val,Ses04F_impro02,Ses04F_impro02_M018,M,That's all I'm saying... No you don't.,anger
+val,Ses04F_impro02,Ses04F_impro02_M019,M,It's just really unfair.  This is- this is bullshit.,anger
+val,Ses04F_impro02,Ses04F_impro02_M020,M,"You're acting like, you know, you're the one who's going all through, you know, all this shit and it's really- it's really not.",anger
+val,Ses04F_impro02,Ses04F_impro02_M021,M,Yeah.  Of course I do because I didn't enlist in this stupid thing.  Why don't you just get out now and then-,anger
+val,Ses04F_impro02,Ses04F_impro02_M023,M,Then go.  We'll be here when you get back.,anger
+val,Ses04F_impro02,Ses04F_impro02_M024,M,"I don't know how else to leave it.  What, do you want me to lie to you?",sadness
+val,Ses04F_impro02,Ses04F_impro02_M025,M,You want me tell you that I'm okay with it?,sadness
+val,Ses04F_impro02,Ses04F_impro02_M026,M,Well I can't be okay with it the same way you can't not go.  It just doesn't work that way.,sadness
+val,Ses04F_impro03,Ses04F_impro03_F000,F,I have something to tell you.,joy
+val,Ses04F_impro03,Ses04F_impro03_F001,F,It's really exciting.  Don't you want to guess?,joy
+val,Ses04F_impro03,Ses04F_impro03_F002,F,Look.,joy
+val,Ses04F_impro03,Ses04F_impro03_F003,F,Yes.  He finally proposed.  I'm getting married.,joy
+val,Ses04F_impro03,Ses04F_impro03_F004,F,I know. I'm so-,joy
+val,Ses04F_impro03,Ses04F_impro03_F005,F,Thank you. [LAUGHTER],joy
+val,Ses04F_impro03,Ses04F_impro03_F006,F,You think. [LAUGHTER],joy
+val,Ses04F_impro03,Ses04F_impro03_F007,F,"Well actually we were just talking about today and I don't really want to do like the traditional church thing, you know.  So we are going to get married in the meadow.",joy
+val,Ses04F_impro03,Ses04F_impro03_F009,F,We're going to get married in the middle of a meadow. [LAUGHTER],joy
+val,Ses04F_impro03,Ses04F_impro03_F010,F,"Everybody's going to come up. We're going to stay in all the pretty cabins up there and, um, everybody's going to have, you know, really flowery sort of naturey stuff.",joy
+val,Ses04F_impro03,Ses04F_impro03_F011,F,So pretty.,joy
+val,Ses04F_impro03,Ses04F_impro03_F012,F,Very Midsummer Night's wedding.,joy
+val,Ses04F_impro03,Ses04F_impro03_F013,F,Thanks. Thanks a lot.  You're really helping the Excitement here. I hope no one dies.,joy
+val,Ses04F_impro03,Ses04F_impro03_F014,F,"Okey Well- well-, you know what?  I was hoping that you would help",joy
+val,Ses04F_impro03,Ses04F_impro03_F015,F,plan everything.  So then you can make sure that no one gets attacked by bears.,joy
+val,Ses04F_impro03,Ses04F_impro03_F016,F,Yeah?,joy
+val,Ses04F_impro03,Ses04F_impro03_F017,F,Really?,joy
+val,Ses04F_impro03,Ses04F_impro03_F018,F,"Okay.  It's going to be in, like, six months.  So we don't have a really long time.",joy
+val,Ses04F_impro03,Ses04F_impro03_F034,F,"Throw in a little- little, uh, trim in yellow.  Maybe some yellow flowers.",joy
+val,Ses04F_impro03,Ses04F_impro03_F036,F,Yes.,joy
+val,Ses04F_impro03,Ses04F_impro03_F038,F,because you're going to take care of everything.  You're going to think of all the details that I forget.,joy
+val,Ses04F_impro03,Ses04F_impro03_F040,F,Ha ha ha.,joy
+val,Ses04F_impro03,Ses04F_impro03_F041,F,Ha ha.,joy
+val,Ses04F_impro03,Ses04F_impro03_F042,F,Just couldn't be any cooler.,joy
+val,Ses04F_impro03,Ses04F_impro03_F043,F,I know.  I've been waiting forever.  I can't believe it's finally happening.,joy
+val,Ses04F_impro03,Ses04F_impro03_F044,F,You don't look like you're going to faint.,joy
+val,Ses04F_impro03,Ses04F_impro03_F045,F,So- So when are you getting married Mr. Excited?,joy
+val,Ses04F_impro03,Ses04F_impro03_F047,F,You haven't ruined it yet.,joy
+val,Ses04F_impro03,Ses04F_impro03_F048,F,You really like,joy
+val,Ses04F_impro03,Ses04F_impro03_F050,F,You could make her that excited.  You really like her.  You guys have been together for a really long time now.,joy
+val,Ses04F_impro03,Ses04F_impro03_F051,F,[LAUGHTER] That's more than I needed to know.,joy
+val,Ses04F_impro03,Ses04F_impro03_F052,F,[laughter],joy
+val,Ses04F_impro03,Ses04F_impro03_M000,M,What?  You seem so excited.,neutral
+val,Ses04F_impro03,Ses04F_impro03_M001,M,"Uh, you got a new car, a new house. Uh, a dog.",neutral
+val,Ses04F_impro03,Ses04F_impro03_M002,M,Are you serious?  You're getting married.,surprise
+val,Ses04F_impro03,Ses04F_impro03_M003,M,Holy shit that's amazing.,joy
+val,Ses04F_impro03,Ses04F_impro03_M004,M,Congratulations.,joy
+val,Ses04F_impro03,Ses04F_impro03_M005,M,"I'm invited, right.",joy
+val,Ses04F_impro03,Ses04F_impro03_M014,M,Yeah.  I'll help plan.,joy
+val,Ses04F_impro03,Ses04F_impro03_M018,M,Why not browns?,neutral
+val,Ses04F_impro03,Ses04F_impro03_M019,M,"It's a light brown, tanish.",neutral
+val,Ses04F_impro03,Ses04F_impro03_M020,M,I just think browns are really what you want to go with.  I mean I think there's more contrast between brown and green than there is-,neutral
+val,Ses04F_impro03,Ses04F_impro03_M021,M,I know but you just asked me to-,neutral
+val,Ses04F_impro03,Ses04F_impro03_M023,M,"Come on.  Please will you do the greens and browns, just the browns for me?",anger
+val,Ses04F_impro03,Ses04F_impro03_M027,M,Okay.  Fine.  So green and what?,neutral
+val,Ses04F_impro03,Ses04F_impro03_M028,M,Blue?,neutral
+val,Ses04F_impro03,Ses04F_impro03_M029,M,"Okay, fine. Greens and blues.",neutral
+val,Ses04F_impro03,Ses04F_impro03_M030,M,Greens and blues and maybe a little light yellow?,neutral
+val,Ses04F_impro03,Ses04F_impro03_M031,M,Yeah?,neutral
+val,Ses04F_impro03,Ses04F_impro03_M032,M,"Okay.  That sounds good. Um, and, uh, we're going to get like a five, uh, story cake, right?",neutral
+val,Ses04F_impro03,Ses04F_impro03_M033,M,"I mean, you know, you're going to have at least, like, two hundred and fifty people come.  So we're going to need, you know, just a huge buffet.",neutral
+val,Ses04F_impro03,Ses04F_impro03_M034,M,"Fried chicken, mashed potatoes.",neutral
+val,Ses04F_impro03,Ses04F_impro03_M035,M,Well I can't be in charge of this.  I mean I got things I got to do.,neutral
+val,Ses04F_impro03,Ses04F_impro03_M036,M,Well this is really exciting.  I mean- I just- I couldn't be happier right now.,joy
+val,Ses04F_impro03,Ses04F_impro03_M037,M,I'm thrilled.  God.,joy
+val,Ses04F_impro03,Ses04F_impro03_M038,M,Just ecstatic.  I can't believe you're my best friend,joy
+val,Ses04F_impro03,Ses04F_impro03_M039,M,"You're my best friend, we're growing up and now you're getting married. that's amazing",joy
+val,Ses04F_impro03,Ses04F_impro03_M040,M,Wow.  I just- I- I- I feel like I'm going to faint.,joy
+val,Ses04F_impro03,Ses04F_impro03_M041,M,I'm so- all the blood,joy
+val,Ses04F_impro03,Ses04F_impro03_M042,M,"has just rushed to my head, and I, and I mean honestly.",joy
+val,Ses04F_impro03,Ses04F_impro03_M043,M,I'm getting a little weak in the knees.,joy
+val,Ses04F_impro03,Ses04F_impro03_M047,M,"I don't know.  Okay.  I mean gosh.  There's just- look there's a lot of pressure in getting married, okay.",neutral
+val,Ses04F_impro05,Ses04F_impro05_F000,F,You guys lost my bag.,anger
+val,Ses04F_impro05,Ses04F_impro05_F001,F,Yeah.  Yeah I did.,anger
+val,Ses04F_impro05,Ses04F_impro05_F002,F,"I-I don't know.  The place where they told me to go.  Look they told me to come talk to you because you guys lost my bag.  Not it's late.  Not it will be here soon, lost it completely.  What are you going to do about that?",anger
+val,Ses04F_impro05,Ses04F_impro05_F003,F,Look that bag has my entire life in it and you just lost it.,anger
+val,Ses04F_impro05,Ses04F_impro05_F004,F,"Lost it just, like, I mean,",anger
+val,Ses04F_impro05,Ses04F_impro05_F005,F,it's not like it just disappeared into thin air. Somebody wasn't paying attention,anger
+val,Ses04F_impro05,Ses04F_impro05_F006,F,"because my bag was very easy to keep track of.  It's got big, you know, rainbow colored crap all over it and no one was paying attention because now it's just gone.",anger
+val,Ses04F_impro05,Ses04F_impro05_F007,F,Wait.  What?,surprise
+val,Ses04F_impro05,Ses04F_impro05_F008,F,No. No. I heard- I heard what you said.,anger
+val,Ses04F_impro05,Ses04F_impro05_F009,F,"You're kidding me, right.  You're going to give me fifty dollars to completely cover my bag, everything that was in it, the inconvenience that I've gone through.  I paid for my ticket.  All I expect is to safely get to my destination with my stuff.  Is that so much to ask?  I mean I really don't think that's that big a deal to ask you guys to have my bag in the place where I leave and then put my bag where I end up.",anger
+val,Ses04F_impro05,Ses04F_impro05_F010,F,"Yeah, well that's got everything I have in it.",anger
+val,Ses04F_impro05,Ses04F_impro05_F011,F,Look fifty dollars is unacceptable.  My bag itself cost over a hundred and fifty dollars.  You can't just give me fifty dollar gift certificate to Percoes or whatever the hell and then send me off like that's- that's good enough.  Like that's all I needed was fifty dollars.  My bag is worth more than that.,anger
+val,Ses04F_impro05,Ses04F_impro05_F012,F,I expect your airline who was responsible for my bag to give me the equivalent of the bag and all of the things in it.,anger
+val,Ses04F_impro05,Ses04F_impro05_F013,F,I didn't sign anything. I didn't sign anything. And you people have got to make-,anger
+val,Ses04F_impro05,Ses04F_impro05_F014,F,You have to make amends for what you did for losing my bag and all of my stuff.  Fifty dollars is unacceptable.,anger
+val,Ses04F_impro05,Ses04F_impro05_F015,F,No.  No.  I don't know. You know what? I'm going to call my lawyer. You know what?  That's what I'm going to do.  I'm going to call my lawyer and have him get down here and explain to you that this is an unacceptable option.,anger
+val,Ses04F_impro05,Ses04F_impro05_F016,F,I want to talk to your supervisor.,anger
+val,Ses04F_impro05,Ses04F_impro05_F017,F,"I've had enough.  I want to talk to-no, no unacceptable I want to your supervisor. I am done with this.",anger
+val,Ses04F_impro05,Ses04F_impro05_F018,F,"Really, you don't work for anybody.  It's just you?",anger
+val,Ses04F_impro05,Ses04F_impro05_F019,F,"Okay.  Well I want to call whoever you report to, whoever your boss is because I have had enough with this airline and I am finished waiting for my fifty dollar gift certificate.",anger
+val,Ses04F_impro05,Ses04F_impro05_M000,M,Welcome to Northwest Airlines.  How can I help you?,anger
+val,Ses04F_impro05,Ses04F_impro05_M001,M,Did you file a complaint already?,anger
+val,Ses04F_impro05,Ses04F_impro05_M002,M,Where?  Did you do it at the front desk or by the baggage claims?,anger
+val,Ses04F_impro05,Ses04F_impro05_M003,M,"Ma'am, first of all I'd like you to calm down.  Second of all-",anger
+val,Ses04F_impro05,Ses04F_impro05_M005,M,"Ma'am, I understand that.",anger
+val,Ses04F_impro05,Ses04F_impro05_M006,M,"I understand that.  The best I can do for you, at this moment, is give you fifty dollar check courtesy of Northwest Airlines for inconveniencing you in losing your luggage.",anger
+val,Ses04F_impro05,Ses04F_impro05_M007,M,"At this moment in time, all I can do for you is give you-",anger
+val,Ses04F_impro05,Ses04F_impro05_M008,M,you're getting very excited right now,anger
+val,Ses04F_impro05,Ses04F_impro05_M009,M,"I understand that, ma'am but there's not really much I can do for you right now.",anger
+val,Ses04F_impro05,Ses04F_impro05_M010,M,What I need you to do is file another complaint form. There's a form that you can fill out over by the front desk near the baggage claim.,anger
+val,Ses04F_impro05,Ses04F_impro05_M011,M,If you'd like to take that over to the front desk- Ma'am.,anger
+val,Ses04F_impro05,Ses04F_impro05_M012,M,We're just talking over each other.,anger
+val,Ses04F_impro05,Ses04F_impro05_M013,M,We're not going to communicate anything this way.,anger
+val,Ses04F_impro05,Ses04F_impro05_M014,M,Ma'am in flying with Northwest Airlines you agreed to,anger
+val,Ses04F_impro05,Ses04F_impro05_M015,M,sign away your luggage to the,anger
+val,Ses04F_impro05,Ses04F_impro05_M016,M,"It's part of the small- it's part of the agreement when you're purchasing an airline ticket, there's- when you-",anger
+val,Ses04F_impro05,Ses04F_impro05_M017,M,"Ma'am, please calm down.  When you purchase a ticket, there is a terms and agreement,",anger
+val,Ses04F_impro05,Ses04F_impro05_M018,M,terms and conditions- in the agreement of purchasing a ticket. Most people frequently look it over,anger
+val,Ses04F_impro05,Ses04F_impro05_M019,M,The best that we can do for you is give you-,anger
+val,Ses04F_impro05,Ses04F_impro05_M020,M,Ma'am.,anger
+val,Ses04F_impro05,Ses04F_impro05_M021,M,I am- I am- I am my own supervisor.,anger
+val,Ses04F_impro05,Ses04F_impro05_M022,M,"I am the supervisor, ma'am.",anger
+val,Ses04F_impro05,Ses04F_impro05_M023,M,I am the current manager on duty.,anger
+val,Ses04F_impro05,Ses04F_impro05_M024,M,"Ma'am, I own Northwest Airlines.",anger
+val,Ses04M_impro01,Ses04M_impro01_F000,F,Okay.  What's the problem?,neutral
+val,Ses04M_impro01,Ses04M_impro01_F001,F,"Okay, um.  Do you have your photo ID with you?",neutral
+val,Ses04M_impro01,Ses04M_impro01_F002,F,Okay.  This is the wrong form.  I'm sorry.,neutral
+val,Ses04M_impro01,Ses04M_impro01_F003,F,"I don't have the form.  You're going to have to go get in that line over there and they will give you the right form.  And after you fill it out, you can bring it back to me.",anger
+val,Ses04M_impro01,Ses04M_impro01_F004,F,I don't have any of,anger
+val,Ses04M_impro01,Ses04M_impro01_F005,F,I don't have any of them over here.  You're gonna have to go get in that line over there.  And they will give you a copy of the form.,anger
+val,Ses04M_impro01,Ses04M_impro01_F006,F,"Nope, I don't. I don't have-",anger
+val,Ses04M_impro01,Ses04M_impro01_F007,F,"No, I can't. That's-",anger
+val,Ses04M_impro01,Ses04M_impro01_F008,F,I'm sorry.  You have to do things the way you have to do things here.  We have rules.,anger
+val,Ses04M_impro01,Ses04M_impro01_F009,F,"Go get in that-- Sir-- Sir, there are people in line behind you. you need",anger
+val,Ses04M_impro01,Ses04M_impro01_F010,F,"I'm sorry.  I'm sorry you're having a hard time,",anger
+val,Ses04M_impro01,Ses04M_impro01_F011,F,but you're gonna have to go get in  that line to,anger
+val,Ses04M_impro01,Ses04M_impro01_F012,F,twenty bucks? Please. Go get in that line over there.,neutral
+val,Ses04M_impro01,Ses04M_impro01_F013,F,"Look, I'm having a really bad day.  I'm off in twenty minutes and I just really don't need this right now, okay.",anger
+val,Ses04M_impro01,Ses04M_impro01_F014,F,"And you're gonna have to go wait again, because that's the line you need.",anger
+val,Ses04M_impro01,Ses04M_impro01_F015,F,I can't do that. It's against our rules. You can go get in that line over there or you can just go ahead and leave and come back another day.  Maybe there will be a shorter line.,anger
+val,Ses04M_impro01,Ses04M_impro01_F016,F,I can't do that.,anger
+val,Ses04M_impro01,Ses04M_impro01_F017,F,"I'm sorry, but I can't do that.",anger
+val,Ses04M_impro01,Ses04M_impro01_F018,F,So go get in the other line or leave.  Or I will have you escorted out by security.,anger
+val,Ses04M_impro01,Ses04M_impro01_F019,F,Would you like to be kicked out of the D.M.V.?  You don't think that'll be a little embarrassing?,anger
+val,Ses04M_impro01,Ses04M_impro01_F020,F,The one you just came from.,anger
+val,Ses04M_impro01,Ses04M_impro01_F021,F,Yeah.  Thank you.  Have a pleasant day.,anger
+val,Ses04M_impro01,Ses04M_impro01_M000,M,"Yeah, hi.  Um, look, I -- all I'm trying to do right now is renew my license plate.  That's all.  I just need to get one of those little stickers.",neutral
+val,Ses04M_impro01,Ses04M_impro01_M001,M,"And I've- I've- some lady -- I got in line.  I waited for about two hours um, and, I gave her this form",anger
+val,Ses04M_impro01,Ses04M_impro01_M002,M,"that she gave to me earlier. And she said oh, I gave you the wrong one by accident.  So I was hoping I could just fill out a new one, give it to you and sort of skip this whole line business.",anger
+val,Ses04M_impro01,Ses04M_impro01_M003,M,"Yes, I do.",neutral
+val,Ses04M_impro01,Ses04M_impro01_M004,M,"This is -- okay, then just can I have the form that I need.",anger
+val,Ses04M_impro01,Ses04M_impro01_M005,M,Don't you -- you don't have-,anger
+val,Ses04M_impro01,Ses04M_impro01_M006,M,are you telling me you don't have a stack of them behind the desk?,anger
+val,Ses04M_impro01,Ses04M_impro01_M007,M,"But you're -- it's the same -- I mean, you can -- like I can't go behind your desk--",anger
+val,Ses04M_impro01,Ses04M_impro01_M008,M,or I can't go behind there- you can go behind this person's desk and just grab the form. So if you could just do that; that would help me out a lot.,anger
+val,Ses04M_impro01,Ses04M_impro01_M009,M,"Look, can you please just-- --make this -- look, I look--",anger
+val,Ses04M_impro01,Ses04M_impro01_M010,M,look-- It's  been- it's been two hours.  Can you please just make this easier on me and just go and get the form?  It's not- it's really not,anger
+val,Ses04M_impro01,Ses04M_impro01_M011,M,What if I pay you money?,anger
+val,Ses04M_impro01,Ses04M_impro01_M012,M,"Can I pay you money?  Can I give you, like, twenty bucks and you'll go back there and get the form?",anger
+val,Ses04M_impro01,Ses04M_impro01_M013,M,"Come on.  Will you please?  I just --I look, I  cannot-- --just if I --",anger
+val,Ses04M_impro01,Ses04M_impro01_M014,M,"I don't care, well- You're having a bad -- I just waited in line for two hours.",anger
+val,Ses04M_impro01,Ses04M_impro01_M016,M,That's all I- I just- That's all i want you to-,anger
+val,Ses04M_impro01,Ses04M_impro01_M017,M,"Rules, you just have to grab a piece of paper behind from somebody's desk",anger
+val,Ses04M_impro01,Ses04M_impro01_M018,M,It's not rocket science.,anger
+val,Ses04M_impro01,Ses04M_impro01_M019,M,"Come -- just, please, just grab the form.  It's right over there.",anger
+val,Ses04M_impro01,Ses04M_impro01_M021,M,Why are you being such a bitch?,anger
+val,Ses04M_impro01,Ses04M_impro01_M022,M,"Please, will you please -- will you please just grab the form?",anger
+val,Ses04M_impro01,Ses04M_impro01_M023,M,"Fine, which line is it?",anger
+val,Ses04M_impro01,Ses04M_impro01_M024,M,"Okay, fine.  I'll go over there.  Thanks, a lot.  You've been really helpful.",anger
+val,Ses04M_impro03,Ses04M_impro03_F002,F,I can't -- how did you do it?  What happened?,joy
+val,Ses04M_impro03,Ses04M_impro03_F003,F,[LAUGHTER] Well you paint a romantic picture.,joy
+val,Ses04M_impro03,Ses04M_impro03_F004,F,Did she cry?,joy
+val,Ses04M_impro03,Ses04M_impro03_F005,F,"Oh, my God.  How long have you been planning on doing this?",joy
+val,Ses04M_impro03,Ses04M_impro03_F006,F,I can't believe this.  You're getting married. It's crazy!,joy
+val,Ses04M_impro03,Ses04M_impro03_F007,F,"Yeah, it is.",joy
+val,Ses04M_impro03,Ses04M_impro03_F008,F,"Yeah, I would love to. Thanks. [LAUGHTER]",joy
+val,Ses04M_impro03,Ses04M_impro03_F009,F,"Oh, my God, where -- have you guys talked about where you're going to get married or--",joy
+val,Ses04M_impro03,Ses04M_impro03_F010,F,"Oh, my God.",joy
+val,Ses04M_impro03,Ses04M_impro03_F011,F,Are you going to get married like on the beach barefoot or like fancier?  Like in a church.,joy
+val,Ses04M_impro03,Ses04M_impro03_F012,F,Well I don't know.  Throwing it out there.,joy
+val,Ses04M_impro03,Ses04M_impro03_F015,F,It's so exciting.  What's the ring look like?,joy
+val,Ses04M_impro03,Ses04M_impro03_F016,F,Big and shiny.  You're such a guy. [LAUGHTER],joy
+val,Ses04M_impro03,Ses04M_impro03_F017,F,I'm so excited for you. That's great. I'm so-,joy
+val,Ses04M_impro03,Ses04M_impro03_F019,F,It's fantastic.  I -- congratulations. It's amazing.,joy
+val,Ses04M_impro03,Ses04M_impro03_F024,F,This is why men don't plan weddings. [LAUGHTER],joy
+val,Ses04M_impro03,Ses04M_impro03_F025,F,All fruit and brown. [LAUGHTER],joy
+val,Ses04M_impro03,Ses04M_impro03_M002,M,"Yeah, it's pretty amazing, huh?",joy
+val,Ses04M_impro03,Ses04M_impro03_M005,M,"Well I didn't want it to be like cheesy, you know.",joy
+val,Ses04M_impro03,Ses04M_impro03_M006,M,"She didn't cry, but she was laughing a lot and it was very exciting, so...",joy
+val,Ses04M_impro03,Ses04M_impro03_M007,M,"Honestly, it was kind of quickly.  It was actually only in the past couple months.",joy
+val,Ses04M_impro03,Ses04M_impro03_M008,M,"Yeah. Yeah. So- I know.  I know. I know.  It's weird 'cause it's like the beginning of the rest of my life, you know.",joy
+val,Ses04M_impro03,Ses04M_impro03_M009,M,"But uh- no, I mean, you know.  You know, I really want you to like, you know, sort of",joy
+val,Ses04M_impro03,Ses04M_impro03_M011,M,Okay. Well there you go.,joy
+val,Ses04M_impro03,Ses04M_impro03_M015,M,Barefoot?,joy
+val,Ses04M_impro03,Ses04M_impro03_M017,M,Yeah.  But I'm really excited.  So and everybody's going to come out and it'll be a great time.  And--,joy
+val,Ses04M_impro03,Ses04M_impro03_M019,M,It's big and shiny.  I don't know.  It's silver and--,joy
+val,Ses04M_impro03,Ses04M_impro03_M020,M,"Yeah, I don't know. [LAUGHTER] But, yeah, so anyway -- well I wanted to tell you that, you know, 'cause you're one of my good friends and you're Kate's- one of her best friends and-",joy
+val,Ses04M_impro03,Ses04M_impro03_M021,M,"Yeah, yeah. She was actually -- she was going to tell you but I told her that I wanted to tell you and she had to work today anyway, so I decided to-",joy
+val,Ses04M_impro03,Ses04M_impro03_M022,M,"Yeah, yeah.",joy
+val,Ses04M_impro03,Ses04M_impro03_M023,M,"Thank you.  I'm really -- I'm really excited.  And it's -- I don't know, it's like a little -- it's like a little scary, 'cause I'm like, ah, you know, it's the first time I've ever done anything like this.",joy
+val,Ses04M_impro03,Ses04M_impro03_M024,M,"But, you know, it's like I really love her and I really just -- I can't imagine spending my life with anybody else but her.  So, you know, it's like I know that's the right thing.  And if you have to, you know, if you have to question that, you know, don't- don't do it.  So we're going to do it.",joy
+val,Ses04M_impro03,Ses04M_impro03_M025,M,"And it's going to -- the -- you know, I told her that I just -- I want the color brown to be as an integral in the wedding.  And, um, maybe some greens and blues.",joy
+val,Ses04M_impro03,Ses04M_impro03_M026,M,She's okay with it.,joy
+val,Ses04M_impro03,Ses04M_impro03_M028,M,"Well, I mean I just told her--Well I just said, you know, hey, these are my suggestions.",joy
+val,Ses04M_impro03,Ses04M_impro03_M029,M,All fruit and the color brown. Just that. That's all- that's my only request.,joy
+val,Ses04M_impro03,Ses04M_impro03_M030,M,Yeah.  Well maybe--maybe you're right. Maybe there's something to that.,joy
+val,Ses04M_impro03,Ses04M_impro03_M031,M,"So, um, anyway, do you want to order now?   So, um I mean--",neutral
+val,Ses04M_impro06,Ses04M_impro06_F000,F,"Hey, how you doing?",sadness
+val,Ses04M_impro06,Ses04M_impro06_F001,F,I'm sorry.,sadness
+val,Ses04M_impro06,Ses04M_impro06_F002,F,"I know- I know there's nothing I can say that will really help, but--",sadness
+val,Ses04M_impro06,Ses04M_impro06_F003,F,I'm sorry.  It's never easy.,sadness
+val,Ses04M_impro06,Ses04M_impro06_F004,F,"But, I'm here if there's anything you need.  I mean, you just have to ask.  I know --",sadness
+val,Ses04M_impro06,Ses04M_impro06_F005,F,--it doesn't really do anything.  But--,sadness
+val,Ses04M_impro06,Ses04M_impro06_F006,F,I know.  It never is.,sadness
+val,Ses04M_impro06,Ses04M_impro06_F007,F,"How's, um -- how's his parents doing?",sadness
+val,Ses04M_impro06,Ses04M_impro06_F008,F,"I mean, what do you want to do?  Do you want to- do you want to talk about it?  Do you-",sadness
+val,Ses04M_impro06,Ses04M_impro06_F009,F,"Well I know it's not a lot of help or anything, but at least you got to know him.  I mean, at least you had the time with him that you did.",sadness
+val,Ses04M_impro06,Ses04M_impro06_F010,F,"I mean, we can be grateful for that.",sadness
+val,Ses04M_impro06,Ses04M_impro06_F011,F,You feel that way now because you're upset.  But you don't really think that.,sadness
+val,Ses04M_impro06,Ses04M_impro06_F012,F,"It'll get better.  I know it doesn't help, but it will get better and you will remember all of the good things that you guys had; all of the memories that you have with him that were happy and you'll be grateful for those.",sadness
+val,Ses04M_impro06,Ses04M_impro06_F014,F,"I agree.  If I knew how to make that happen, I would certainly help you.",sadness
+val,Ses04M_impro06,Ses04M_impro06_F015,F,"When's the service? Can- can we help?  Is there anything, I mean--",sadness
+val,Ses04M_impro06,Ses04M_impro06_F016,F,"Seems like if the whole world's sad, then it's okay for you to be.",sadness
+val,Ses04M_impro06,Ses04M_impro06_F017,F,I know.,sadness
+val,Ses04M_impro06,Ses04M_impro06_F018,F,"I don't have any magic answers.  But,",sadness
+val,Ses04M_impro06,Ses04M_impro06_F019,F,"I mean, as- as cliche as it is, as long as people who loved him remember him, then it's not a waste, you know.",sadness
+val,Ses04M_impro06,Ses04M_impro06_M000,M,Thanks.,sadness
+val,Ses04M_impro06,Ses04M_impro06_M001,M,"I know.  I just -- I don't know.  It's just weird because you have somebody who's, you know,",sadness
+val,Ses04M_impro06,Ses04M_impro06_M002,M,a major part of your life and then they're gone.  And I don't know.  That's not really -- it's never really happened to me before.,sadness
+val,Ses04M_impro06,Ses04M_impro06_M003,M,Yeah.,sadness
+val,Ses04M_impro06,Ses04M_impro06_M004,M,Thanks.,sadness
+val,Ses04M_impro06,Ses04M_impro06_M005,M,I just -- it's just not fair.,sadness
+val,Ses04M_impro06,Ses04M_impro06_M006,M,"I mean, they're, you know, they're upset.  It's like you know, they",sadness
+val,Ses04M_impro06,Ses04M_impro06_M007,M,feel the same way everybody else does.,sadness
+val,Ses04M_impro06,Ses04M_impro06_M008,M,"[BREATHING] I mean, there's nothing really to talk about.  He's gone and I'll never see him again.",sadness
+val,Ses04M_impro06,Ses04M_impro06_M009,M,Yeah.,sadness
+val,Ses04M_impro06,Ses04M_impro06_M010,M,"Yeah, I don't know.  Sometimes I wish I didn't know him.  So I wouldn't--",sadness
+val,Ses04M_impro06,Ses04M_impro06_M011,M,This is just -- this is a terrible life.  I just don't understand.,sadness
+val,Ses04M_impro06,Ses04M_impro06_M012,M,"I mean, it's just not fair.  Like, I don't know.  Why people -",sadness
+val,Ses04M_impro06,Ses04M_impro06_M013,M,"there should just be some sort of rule that people don't die until they're older, 'cause then, at least, it's expected.",sadness
+val,Ses04M_impro06,Ses04M_impro06_M014,M,I don't know what to do.,sadness
+val,Ses04M_impro06,Ses04M_impro06_M015,M,"I mean, you- you can go.  I don't know.  I don't know what else.",sadness
+val,Ses04M_impro06,Ses04M_impro06_M016,M,I hope it rains.  Somehow that'll make me feel more comfortable.,sadness
+val,Ses04M_impro06,Ses04M_impro06_M017,M,Yeah.,sadness
+val,Ses04M_impro06,Ses04M_impro06_M018,M,I just wish there was some way to just bring him back to life magically.,sadness
+val,Ses04M_impro06,Ses04M_impro06_M019,M,"Just, you know, some thing; some genie. I need to find a genie bottle.",sadness
+val,Ses04M_impro06,Ses04M_impro06_M020,M,I know.,sadness
